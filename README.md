@@ -4,7 +4,15 @@
 
 [βιογραφικο](./assets/biography/bio.txt)
 
+
+Google document for english text:
+
 [english text](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
+
+
+Google document for greek text:
+
+[greek text](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
 
 ## Εργα  
 
