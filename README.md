@@ -1,6 +1,6 @@
 
-https://github.com/nassuphis/sigrid/blob/main/441420834_8201023046576468_1111072059487738745_n.jpg
 
+![trasquera1](https://github.com/nassuphis/sigrid/assets/1358190/49afb796-ded4-447b-8596-adc59c0dd89d)
 
 ## Κατάλογος:
 
