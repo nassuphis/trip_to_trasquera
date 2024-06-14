@@ -1,6 +1,8 @@
 # Trip to Trasquera
 
-**Sigrid Nassuphis**
+**Sigrid Nassuphis** (b. 1940)
+
+
 
 [βιογραφικο](./assets/biography/bio.txt)
 
