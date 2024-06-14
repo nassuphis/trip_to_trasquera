@@ -23,6 +23,10 @@
 
 <img src="./assets/trasquera8.jpg" height="120px" width="90px" />
 
+<img src="./assets/trasquera9.jpg" height="120px" width="90px" />
+
+<img src="./assets/trasquera10.jpg" height="120px" width="90px" />
+
 ## Κατάλογος:
 
 Διαστάσεις
