@@ -61,6 +61,7 @@ The towering pines in the foreground contrast with the distant, snow-capped peak
 The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
 This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
 
+[hires image](https://sigrid-paintings.s3.amazonaws.com/wetransfer_zigrid-photos-tiff-part-1-2_2024-05-31_1621/Ergo_7368.tif)
 
 ### Trasquera 4, 2023
 
