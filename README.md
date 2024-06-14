@@ -4,6 +4,8 @@
 
 [βιογραφικο](./assets/biography/bio.txt)
 
+[english text](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
+
 ## Εργα  
 
 ### Trasquera 1
@@ -18,6 +20,7 @@ The path symbolizes a journey through the natural landscape, inviting viewers to
 
 
 90 x 120 cm
+
 2023, oil on canvas
 
 
@@ -33,6 +36,7 @@ This work captures the formidable beauty of the alpine environment.
 
 
 120 x 90 cm
+
 2022, oil on canvas
 
 ### Trasquera 3
@@ -48,6 +52,7 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 
 
 185 x 300 cm
+
 2023, oil on canvas
 
 ### Trasquera 4
@@ -62,6 +67,7 @@ The composition invites viewers to enjoy a moment of calm reflection.
 
 
 90 x 120 cm
+
 2023, oil on canvas
 
 ### Trasquera 5
@@ -77,6 +83,7 @@ This work reflects the peaceful simplicity of rural life.
 
 
 90 x 120 cm
+
 2023, oil on canvas
 
 ### Trasquera 6
@@ -92,6 +99,7 @@ This painting evokes a dreamlike quality, reflecting the transient nature of the
 
 
 90 x 120 cm
+
 2024, oil on canvas
 
 ### Trasquera 7
@@ -107,6 +115,7 @@ This painting captures the powerful presence of nature and its ever-changing moo
 
 
 120 x 90 cm 
+
 2022, oil on canvas
 
 ### Trasquera 8
@@ -122,6 +131,7 @@ The painting captures the stillness and calm of a wintry day.
 
 
 120 x 90 cm
+
 2023, oil on canvas
 
 ### Trasquera 9
@@ -131,6 +141,7 @@ The painting captures the stillness and calm of a wintry day.
 
 
 120 x 90 cm
+
 2022, oil on canvas
 
 ### Trasquera 10
@@ -142,6 +153,7 @@ The painting captures the stillness and calm of a wintry day.
 Failure and frustration is part of the process. Sometimes the results are memorable.
 
 120 x 90 cm
+
 2022, oil on canvas
 
 
