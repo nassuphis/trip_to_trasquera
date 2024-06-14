@@ -1,6 +1,13 @@
 
 
-<img src="https://github.com/nassuphis/sigrid/blob/main/441420834_8201023046576468_1111072059487738745_n.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera1.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera2.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera3.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera4.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera5.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera6.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera7.jpg" height="90px" width="120px" />
+<img src="https://github.com/nassuphis/sigrid/blob/main/trasquera8.jpg" height="90px" width="120px" />
 
 ## Κατάλογος:
 
