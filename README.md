@@ -2,7 +2,7 @@
 
 **Sigrid Nassuphis**
 
-[βιογραφικο](bio.txt)
+[βιογραφικο](./assets/biography/bio.txt)
 
 ## 
 
