@@ -29,7 +29,7 @@ A winding path through a verdant valley leads towards a snow-capped mountain in 
 The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 
-[hires image](https://sigrid-paintings.s3.amazonaws.com/wetransfer_zigrid-photos-tiff-part-1-2_2024-05-31_1621/Ergo_7378.tif)
+[hires image](./assets/images/trasquera1.jpg)
 
 ### Trasquera 2, 2022
 
