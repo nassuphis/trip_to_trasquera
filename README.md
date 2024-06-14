@@ -1,15 +1,15 @@
-## Trip to Trasquera
+# Trip to Trasquera
 
-Sigrid Nassuphis
+## Sigrid Nassuphis
 
-- Trasquera1
+### Trasquera 1
 
 <img src="./assets/trasquera1.jpg" height="90px" width="120px" />
 
 
 90 x 120 cm
 
-- Trasquera2
+### Trasquera 2
 
 <img src="./assets/trasquera2.jpg" height="120px" width="90px" />
 
@@ -17,7 +17,7 @@ Sigrid Nassuphis
 120 x 90 cm
 
 
-- Trasquera3
+### Trasquera 3
 
 <img src="./assets/trasquera3.jpg" height="185px" width="300px" />
 
@@ -25,7 +25,7 @@ Sigrid Nassuphis
 185 x 300 cm
 
 
-- Trasquera4
+### Trasquera 4
 
 <img src="./assets/trasquera4.jpg" height="90px" width="120px" />
 
@@ -33,7 +33,7 @@ Sigrid Nassuphis
 90 x 120 cm
 
 
-- Trasquera5
+### Trasquera 5
 
 <img src="./assets/trasquera5.jpg" height="90px" width="120px" />
 
@@ -41,7 +41,7 @@ Sigrid Nassuphis
 90 x 120 cm
 
 
-- Trasquera6
+### Trasquera 6
 
 <img src="./assets/trasquera6.jpg" height="90px" width="120px" />
 
@@ -49,7 +49,7 @@ Sigrid Nassuphis
 90 x 120 cm
 
 
-- Trasquera7
+### Trasquera 7
 
 <img src="./assets/trasquera7.jpg" height="120px" width="90px" />
 
@@ -57,7 +57,7 @@ Sigrid Nassuphis
 120 x 90 cm
 
 
-- Trasquera8
+### Trasquera 8
 
 <img src="./assets/trasquera8.jpg" height="120px" width="90px" />
 
@@ -65,7 +65,7 @@ Sigrid Nassuphis
 120 x 90 cm
 
 
-- Trasquera9
+### Trasquera 9
 
 <img src="./assets/trasquera9.jpg" height="120px" width="90px" />
 
@@ -73,7 +73,7 @@ Sigrid Nassuphis
 120 x 90 cm
 
 
-- Trasquera10
+### Trasquera 10
 
 <img src="./assets/trasquera10.jpg" height="120px" width="90px" />
 
