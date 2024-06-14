@@ -4,6 +4,9 @@
 
 [βιογραφικο](./assets/biography/bio.txt)
 
+Google document for bio in greek and english
+
+[editable bio](https://docs.google.com/document/d/1sQ4DpOQlkXaT3mgAqoA0ULMKo_tSICqe7Fv2u_9M9Gg/edit)
 
 Google document for english text:
 
