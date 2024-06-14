@@ -109,6 +109,12 @@ This painting captures the powerful presence of nature and its ever-changing moo
 <img src="./assets/images/trasquera8.jpg" height="120px" width="90px" />
 
 
+This monochromatic scene illustrates a winter landscape enveloped in fog. 
+The skeletal trees stand stark against the soft, misty background. 
+The restrained palette and minimalist composition emphasize the quiet beauty of the snow-covered terrain. 
+The painting captures the stillness and calm of a wintry day.
+
+
 120 x 90 cm
 
 
