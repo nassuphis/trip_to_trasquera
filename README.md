@@ -1,6 +1,10 @@
 # Trip to Trasquera
 
-## Sigrid Nassuphis
+**Sigrid Nassuphis**
+
+[βιογραφικο](bio.txt)
+
+## 
 
 ### Trasquera 1
 
