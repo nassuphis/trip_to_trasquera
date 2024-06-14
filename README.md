@@ -19,8 +19,11 @@ Google document for greek text:
 
 ## Εργα  
 
-### Trasquera 1
+### Trasquera 1, 2023
 
+oil on canvas
+
+90 x 120 cm
 
 <img src="./assets/images/trasquera1.jpg" height="90px" width="120px" />
 
@@ -30,13 +33,11 @@ The green grass and trees contrast sharply with the white snow, creating a dynam
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 
 
-90 x 120 cm
+### Trasquera 2, 2022
 
-2023, oil on canvas
+oil on canvas
 
-
-### Trasquera 2
-
+120 x 90 cm
 
 <img src="./assets/images/trasquera2.jpg" height="120px" width="90px" />
 
@@ -46,12 +47,11 @@ The clear blue sky contrasts with the rugged textures of the mountain, highlight
 This work captures the formidable beauty of the alpine environment.
 
 
-120 x 90 cm
+### Trasquera 3, 2023
 
-2022, oil on canvas
+oil on canvas
 
-### Trasquera 3
-
+185 x 300 cm
 
 <img src="./assets/images/trasquera3.jpg" height="185px" width="300px" />
 
@@ -62,12 +62,11 @@ The careful detailing of the rocky mountains and lush evergreens showcases the g
 This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
 
 
-185 x 300 cm
+### Trasquera 4, 2023
 
-2023, oil on canvas
+oil on canvas
 
-### Trasquera 4
-
+90 x 120 cm
 
 <img src="./assets/images/trasquera4.jpg" height="90px" width="120px" />
 
@@ -77,11 +76,11 @@ The interplay of light and shadow, along with the lush foliage climbing the wood
 The composition invites viewers to enjoy a moment of calm reflection.
 
 
+### Trasquera 5, 2023
+
+oil on canvas
+
 90 x 120 cm
-
-2023, oil on canvas
-
-### Trasquera 5
 
 
 <img src="./assets/images/trasquera5.jpg" height="90px" width="120px" />
@@ -93,12 +92,11 @@ The detailed fence in the foreground guides the viewer’s eye towards the seren
 This work reflects the peaceful simplicity of rural life.
 
 
+### Trasquera 6, 2024
+
+oil on canvas
+
 90 x 120 cm
-
-2023, oil on canvas
-
-### Trasquera 6
-
 
 <img src="./assets/images/trasquera6.jpg" height="90px" width="120px" />
 
@@ -109,12 +107,11 @@ The simple fence provides structure to the scene.
 This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
 
 
-90 x 120 cm
+### Trasquera 7, 2022
 
-2024, oil on canvas
+oil on canvas
 
-### Trasquera 7
-
+120 x 90 cm 
 
 <img src="./assets/images/trasquera7.jpg" height="120px" width="90px" />
 
@@ -125,11 +122,11 @@ A small stone building in the foreground provides a human touch.
 This painting captures the powerful presence of nature and its ever-changing moods.
 
 
-120 x 90 cm 
+### Trasquera 8, 2023
 
-2022, oil on canvas
+oil on canvas
 
-### Trasquera 8
+120 x 90 cm
 
 
 <img src="./assets/images/trasquera8.jpg" height="120px" width="90px" />
@@ -140,32 +137,25 @@ The skeletal trees stand stark against the soft, misty background.
 The restrained palette and minimalist composition emphasize the quiet beauty of the snow-covered terrain. 
 The painting captures the stillness and calm of a wintry day.
 
+### Trasquera 9, 2022
+
+oil on canvas
 
 120 x 90 cm
-
-2023, oil on canvas
-
-### Trasquera 9
-
 
 <img src="./assets/images/trasquera9.jpg" height="120px" width="90px" />
 
 
+### Trasquera 10, 2022
+
+oil on canvas
+
 120 x 90 cm
-
-2022, oil on canvas
-
-### Trasquera 10
-
 
 <img src="./assets/images/trasquera10.jpg" height="120px" width="90px" />
 
 
-Failure and frustration is part of the process. Sometimes the results are memorable.
-
-120 x 90 cm
-
-2022, oil on canvas
+Failure and frustration are part of the process. Some failures are memorable.
 
 
 ## Κατάλογος:
