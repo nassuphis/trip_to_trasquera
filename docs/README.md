@@ -29,7 +29,7 @@ A winding path through a verdant valley leads towards a snow-capped mountain in 
 The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 
-[hires image](/pages/hires_trasquera1.md)
+[hires image](./pages/hires_trasquera1.md)
 
 ### Trasquera 2, 2022
 
@@ -44,7 +44,7 @@ A commanding mountain peak dominates this composition, framed by detailed bushes
 The clear blue sky contrasts with the rugged textures of the mountain, highlighting its majestic presence. 
 This work captures the formidable beauty of the alpine environment.
 
-[hires image](/pages/hires_trasquera2.md)
+[hires image](./pages/hires_trasquera2.md)
 
 ### Trasquera 3, 2023
 
@@ -60,7 +60,7 @@ The towering pines in the foreground contrast with the distant, snow-capped peak
 The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
 This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
 
-[hires image](/pages/hires_trasquera3.md)
+[hires image](./pages/hires_trasquera3.md)
 
 ### Trasquera 4, 2023
 
@@ -75,7 +75,7 @@ This painting presents a rustic porch overlooking a dense forest and distant mou
 The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
 The composition invites viewers to enjoy a moment of calm reflection.
 
-[hires image](/pages/hires_trasquera4.md)
+[hires image](./pages/hires_trasquera4.md)
 
 ### Trasquera 5, 2023
 
@@ -92,7 +92,7 @@ The bright colors of the grass and trees are complemented by a clear blue sky.
 The detailed fence in the foreground guides the viewer’s eye towards the serene home. 
 This work reflects the peaceful simplicity of rural life.
 
-[hires image](/pages/hires_trasquera5.md)
+[hires image](./pages/hires_trasquera5.md)
 
 ### Trasquera 6, 2024
 
