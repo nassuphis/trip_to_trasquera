@@ -108,6 +108,7 @@ Indistinct shapes of trees and bushes blend into the soft, muted tones of the ba
 The simple fence provides structure to the scene. 
 This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
 
+[hires image](./pages/hires_trasquera6.md)
 
 ### Trasquera 7, 2022
 
@@ -123,6 +124,7 @@ Thick clouds part to reveal glimpses of blue, adding depth to the scene.
 A small stone building in the foreground provides a human touch. 
 This painting captures the powerful presence of nature and its ever-changing moods.
 
+[hires image](./pages/hires_trasquera7.md)
 
 ### Trasquera 8, 2023
 
@@ -139,6 +141,8 @@ The skeletal trees stand stark against the soft, misty background.
 The restrained palette and minimalist composition emphasize the quiet beauty of the snow-covered terrain. 
 The painting captures the stillness and calm of a wintry day.
 
+[hires image](./pages/hires_trasquera8.md)
+
 ### Trasquera 9, 2022
 
 oil on canvas
@@ -147,6 +151,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera9.jpg" height="120px" width="90px" />
 
+[hires image](./pages/hires_trasquera9.md)
 
 ### Trasquera 10, 2022
 
@@ -159,6 +164,7 @@ oil on canvas
 
 Failure and frustration are part of the process. Some failures are memorable.
 
+[hires image](./pages/hires_trasquera10.md)
 
 ## Κατάλογος:
 
