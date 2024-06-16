@@ -14,7 +14,7 @@
 [Editable google document for greek text](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
 
 
-## Εργα  
+## Works 
 
 ### Trasquera 1, 2023
 
@@ -181,6 +181,8 @@ Failure and frustration are part of the process. Some failures are memorable.
 
 
 ## Πρόσκληση:
+
+[invite](./pages/invite.md)
 
 Διαστάσεις
 
