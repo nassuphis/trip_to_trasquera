@@ -1,4 +1,5 @@
 # Trip to Trasquera
+(placeholder title)
 
 **Sigrid Nassuphis** (b. 1940)
 
