@@ -172,6 +172,9 @@ Failure and frustration are part of the process. Some failures are memorable.
 
 [Editable google document for catalogue](https://docs.google.com/document/d/1F8fE1ziBNncg0rBux5B0DywCj69HqsNfIOjmFNKT-0g/edit)
 
+[catalogue ideas](https://docs.google.com/document/d/1YIE7a2ftaCL6ZNw3IFulUQzg-TdDAcnLaK8citgxnzc/edit)
+
+
 ## Invite
 
 [invite](./pages/invite.md)
