@@ -102,7 +102,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera6.jpg" height="90px" width="120px" />
 
-[hires image](./pages/hires_trasquera6.md)
+[high resolution image](./pages/hires_trasquera6.md)
 
 In this misty landscape, the artist captures the ethereal beauty of foggy surroundings. 
 Indistinct shapes of trees and bushes blend into the soft, muted tones of the background. 
