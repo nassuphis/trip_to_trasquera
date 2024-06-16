@@ -168,6 +168,8 @@ Failure and frustration are part of the process. Some failures are memorable.
 
 ## Κατάλογος:
 
+[invite](./pages/catalogue.md)
+
 Διαστάσεις
 
 Αριθ, Αντιτύπων
