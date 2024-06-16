@@ -1,1 +1,1 @@
-<embed src="../assets/catalogue/catalogue.pdf" width="800px" height="4000px" />
+<embed src="../assets/catalogue/catalogue.pdf" width="800px" height="2000px" />
