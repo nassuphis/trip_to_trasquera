@@ -170,7 +170,7 @@ Failure and frustration are part of the process. Some failures are memorable.
 
 [catalogue](./pages/catalogue.md)
 
-[Editable google document for invite](https://docs.google.com/document/d/1F8fE1ziBNncg0rBux5B0DywCj69HqsNfIOjmFNKT-0g/edit)
+[Editable google document for catalogue](https://docs.google.com/document/d/1F8fE1ziBNncg0rBux5B0DywCj69HqsNfIOjmFNKT-0g/edit)
 
 ## Invite
 
