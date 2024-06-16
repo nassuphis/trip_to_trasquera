@@ -166,29 +166,13 @@ oil on canvas
 Failure and frustration are part of the process. Some failures are memorable.
 
 
-## Κατάλογος:
+## Catalogue
 
 [catalogue](./pages/catalogue.md)
 
-Διαστάσεις
 
-Αριθ, Αντιτύπων
-
-Κείμενα Κριτικής
-
-Βιογραφικά Κείμενα
-
-Τίτλοι και διαστάσεις έργων
-
-
-
-## Πρόσκληση:
+## Invite
 
 [invite](./pages/invite.md)
 
-Διαστάσεις
-
-Αριθ, Αντιτύπων
-
-Κείμενο Πρόσκλησης
 
