@@ -22,7 +22,7 @@ oil on canvas
 
 90 x 120 cm
 
-<img src="./assets/images/trasquera1.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera1.jpg" height="180px" width="240px" />
 
 [high resolution image](./pages/hires_trasquera1.md)
 
@@ -37,7 +37,7 @@ oil on canvas
 
 120 x 90 cm
 
-<img src="./assets/images/trasquera2.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera2.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera2.md)
 
@@ -68,7 +68,7 @@ oil on canvas
 
 90 x 120 cm
 
-<img src="./assets/images/trasquera4.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera4.jpg" height="180px" width="240px" />
 
 [high resolution image](./pages/hires_trasquera4.md)
 
@@ -84,7 +84,7 @@ oil on canvas
 120 x 90 cm
 
 
-<img src="./assets/images/trasquera5.jpg" height="120x" width="90px" />
+<img src="./assets/images/trasquera5.jpg" height="240x" width="180px" />
 
 [high resolution image](./pages/hires_trasquera5.md)
 
@@ -100,7 +100,7 @@ oil on canvas
 
 90 x 120 cm
 
-<img src="./assets/images/trasquera6.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera6.jpg" height="180px" width="240px" />
 
 [high resolution image](./pages/hires_trasquera6.md)
 
@@ -116,7 +116,7 @@ oil on canvas
 
 120 x 90 cm 
 
-<img src="./assets/images/trasquera7.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera7.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera7.md)
 
@@ -133,7 +133,7 @@ oil on canvas
 120 x 90 cm
 
 
-<img src="./assets/images/trasquera8.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera8.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera8.md)
 
@@ -149,7 +149,7 @@ oil on canvas
 
 120 x 90 cm
 
-<img src="./assets/images/trasquera9.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera9.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera9.md)
 
@@ -159,7 +159,7 @@ oil on canvas
 
 120 x 90 cm
 
-<img src="./assets/images/trasquera10.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera10.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera10.md)
 
