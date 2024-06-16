@@ -24,7 +24,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera1.jpg" height="90px" width="120px" />
 
-[hires image](./pages/hires_trasquera1.md)
+[high resolution image](./pages/hires_trasquera1.md)
 
 A winding path through a verdant valley leads towards a snow-capped mountain in this vibrant painting. 
 The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
@@ -39,7 +39,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera2.jpg" height="120px" width="90px" />
 
-[hires image](./pages/hires_trasquera2.md)
+[high resolution image](./pages/hires_trasquera2.md)
 
 A commanding mountain peak dominates this composition, framed by detailed bushes and trees in the foreground. 
 The clear blue sky contrasts with the rugged textures of the mountain, highlighting its majestic presence. 
@@ -54,7 +54,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera3.jpg" height="185px" width="300px" />
 
-[hires image](./pages/hires_trasquera3.md)
+[high resolution image](./pages/hires_trasquera3.md)
 
 In this painting, the artist depicts the panoramic beauty of Bugliaga di Trasquera. 
 The towering pines in the foreground contrast with the distant, snow-capped peaks. 
@@ -70,7 +70,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera4.jpg" height="90px" width="120px" />
 
-[hires image](./pages/hires_trasquera4.md)
+[high resolution image](./pages/hires_trasquera4.md)
 
 This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in mist. 
 The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
@@ -86,7 +86,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera5.jpg" height="90px" width="120px" />
 
-[hires image](./pages/hires_trasquera5.md)
+[high resolution image](./pages/hires_trasquera5.md)
 
 A quaint stone cottage is nestled amidst lush greenery in this vibrant painting. 
 The bright colors of the grass and trees are complemented by a clear blue sky. 
@@ -118,7 +118,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera7.jpg" height="120px" width="90px" />
 
-[hires image](./pages/hires_trasquera7.md)
+[high resolution image](./pages/hires_trasquera7.md)
 
 This dramatic landscape features dark mountains under a turbulent sky. 
 Thick clouds part to reveal glimpses of blue, adding depth to the scene. 
@@ -135,7 +135,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera8.jpg" height="120px" width="90px" />
 
-[hires image](./pages/hires_trasquera8.md)
+[high resolution image](./pages/hires_trasquera8.md)
 
 This monochromatic scene illustrates a winter landscape enveloped in fog. 
 The skeletal trees stand stark against the soft, misty background. 
@@ -151,7 +151,7 @@ oil on canvas
 
 <img src="./assets/images/trasquera9.jpg" height="120px" width="90px" />
 
-[hires image](./pages/hires_trasquera9.md)
+[high resolution image](./pages/hires_trasquera9.md)
 
 ### Trasquera 10, 2022
 
@@ -161,14 +161,14 @@ oil on canvas
 
 <img src="./assets/images/trasquera10.jpg" height="120px" width="90px" />
 
-[hires image](./pages/hires_trasquera10.md)
+[high resolution image](./pages/hires_trasquera10.md)
 
 Failure and frustration are part of the process. Some failures are memorable.
 
 
 ## Κατάλογος:
 
-[invite](./pages/catalogue.md)
+[catalogue](./pages/catalogue.md)
 
 Διαστάσεις
 
