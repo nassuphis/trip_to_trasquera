@@ -81,10 +81,10 @@ The composition invites viewers to enjoy a moment of calm reflection.
 
 oil on canvas
 
-90 x 120 cm
+120 x 90 cm
 
 
-<img src="./assets/images/trasquera5.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera5.jpg" height="120x" width="90px" />
 
 [high resolution image](./pages/hires_trasquera5.md)
 
