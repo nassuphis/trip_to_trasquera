@@ -1,4 +1,5 @@
 # Trip to Trasquera
+(placeholder title)
 
 **Sigrid Nassuphis** (b. 1940)
 
@@ -9,10 +10,11 @@
 
 [Editable google document for bio in greek and english](https://docs.google.com/document/d/1sQ4DpOQlkXaT3mgAqoA0ULMKo_tSICqe7Fv2u_9M9Gg/edit)
 
-[Editable google document for english text](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
+[Marlena's text, translated into English](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
 
-[Editable google document for greek text](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
+[Marlena's greek text](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
 
+[Photos from the trip](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
 
 ## Works 
 
@@ -22,7 +24,7 @@ oil on canvas
 
 90 x 120 cm
 
-<img src="./assets/images/trasquera1.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera1.jpg" height="180px" width="240px" />
 
 [high resolution image](./pages/hires_trasquera1.md)
 
@@ -37,7 +39,7 @@ oil on canvas
 
 120 x 90 cm
 
-<img src="./assets/images/trasquera2.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera2.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera2.md)
 
@@ -68,7 +70,7 @@ oil on canvas
 
 90 x 120 cm
 
-<img src="./assets/images/trasquera4.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera4.jpg" height="180px" width="240px" />
 
 [high resolution image](./pages/hires_trasquera4.md)
 
@@ -81,10 +83,10 @@ The composition invites viewers to enjoy a moment of calm reflection.
 
 oil on canvas
 
-90 x 120 cm
+120 x 90 cm
 
 
-<img src="./assets/images/trasquera5.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera5.jpg" height="240x" width="180px" />
 
 [high resolution image](./pages/hires_trasquera5.md)
 
@@ -100,7 +102,7 @@ oil on canvas
 
 90 x 120 cm
 
-<img src="./assets/images/trasquera6.jpg" height="90px" width="120px" />
+<img src="./assets/images/trasquera6.jpg" height="180px" width="240px" />
 
 [high resolution image](./pages/hires_trasquera6.md)
 
@@ -116,7 +118,7 @@ oil on canvas
 
 120 x 90 cm 
 
-<img src="./assets/images/trasquera7.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera7.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera7.md)
 
@@ -133,7 +135,7 @@ oil on canvas
 120 x 90 cm
 
 
-<img src="./assets/images/trasquera8.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera8.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera8.md)
 
@@ -149,7 +151,7 @@ oil on canvas
 
 120 x 90 cm
 
-<img src="./assets/images/trasquera9.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera9.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera9.md)
 
@@ -159,7 +161,7 @@ oil on canvas
 
 120 x 90 cm
 
-<img src="./assets/images/trasquera10.jpg" height="120px" width="90px" />
+<img src="./assets/images/trasquera10.jpg" height="240px" width="180px" />
 
 [high resolution image](./pages/hires_trasquera10.md)
 
@@ -172,9 +174,13 @@ Failure and frustration are part of the process. Some failures are memorable.
 
 [Editable google document for catalogue](https://docs.google.com/document/d/1F8fE1ziBNncg0rBux5B0DywCj69HqsNfIOjmFNKT-0g/edit)
 
+[catalogue ideas](https://docs.google.com/document/d/1YIE7a2ftaCL6ZNw3IFulUQzg-TdDAcnLaK8citgxnzc/edit)
+
+
 ## Invite
 
 [invite](./pages/invite.md)
 
 [Editable google document for invite](https://docs.google.com/document/d/1P8rk-6X8nB4sFs0FTDmRlq6dvZCGXMrfTml5mxldn1E/edit)
 
+[invite ideas](https://docs.google.com/document/d/1kRX8rgJcJM5kFswvZBf8I15jouDGcAQ3VPm_JGW8PGY/edit)
