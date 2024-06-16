@@ -13,6 +13,7 @@
 
 [Marlena's greek text](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
 
+[Photos from the trip](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
 
 ## Works 
 
