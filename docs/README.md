@@ -181,3 +181,4 @@ Failure and frustration are part of the process. Some failures are memorable.
 
 [Editable google document for invite](https://docs.google.com/document/d/1P8rk-6X8nB4sFs0FTDmRlq6dvZCGXMrfTml5mxldn1E/edit)
 
+[invite ideas](https://docs.google.com/document/d/1kRX8rgJcJM5kFswvZBf8I15jouDGcAQ3VPm_JGW8PGY/edit)
