@@ -10,7 +10,7 @@
 
 [Marlena's Text, Greek Language](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
 
-[Marlena's Text, Translated into English](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
+[Marlena's Text, Translated into English by Spilios](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
 
 [Photos](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
 
