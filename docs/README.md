@@ -6,6 +6,8 @@
 
 [Friends](./pages/friends.md)
 
+[Maps](./pages/maps.md)
+
 [Editable Google Doc for Bio in Greek and English](https://docs.google.com/document/d/1sQ4DpOQlkXaT3mgAqoA0ULMKo_tSICqe7Fv2u_9M9Gg/edit)
 
 [Marlena's Text, Greek Language](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
