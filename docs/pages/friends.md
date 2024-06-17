@@ -1,5 +1,10 @@
 ## Friends
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 | ----- | ----- |
 | <img src="../assets/images/george.jpg" width="120px" /> |  |
