@@ -169,7 +169,7 @@ The text reads: "turns out it was not that easy!"
 
 ## Catalogue
 
-[catalogue](./pages/catalogue.md)
+[Catalogue by Hector](./pages/catalogue.md)
 
 [Editable google document for catalogue](https://docs.google.com/document/d/1F8fE1ziBNncg0rBux5B0DywCj69HqsNfIOjmFNKT-0g/edit)
 
@@ -178,7 +178,7 @@ The text reads: "turns out it was not that easy!"
 
 ## Invite
 
-[invite](./pages/invite.md)
+[Invite by Hector](./pages/invite.md)
 
 [Editable google document for invite](https://docs.google.com/document/d/1P8rk-6X8nB4sFs0FTDmRlq6dvZCGXMrfTml5mxldn1E/edit)
 
