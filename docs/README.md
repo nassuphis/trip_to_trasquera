@@ -159,7 +159,7 @@ oil on canvas
 
 oil on canvas
 
-120 x 90 cm
+100 x 70 cm
 
 <img src="./assets/images/trasquera10.jpg" height="240px" width="180px" />
 
