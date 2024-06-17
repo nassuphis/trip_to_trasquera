@@ -1,4 +1,5 @@
 ## Friends
+
 | ----- | ----- |
 | <img src="../assets/images/george.jpg" width="120px" /> |  |
 | <img src="../assets/images/sozita_goudouna.jpg" height="100px" /> |  |
