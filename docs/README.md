@@ -161,7 +161,7 @@ oil on canvas
 
 100 x 70 cm
 
-<img src="./assets/images/trasquera10.jpg" height="240px" width="180px" />
+<img src="./assets/images/trasquera10.jpg" height="200px" width="140px" />
 
 [high resolution image](./pages/hires_trasquera10.md)
 
