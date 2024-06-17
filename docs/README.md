@@ -46,7 +46,7 @@ The clear blue sky contrasts with the rugged textures of the mountain, highlight
 This work captures the formidable beauty of the alpine environment.
 
 
-### Trasquera 3 (The Big Outdoors), 2023
+### Trasquera 3 (The Great Outdoors), 2023
 
 oil on canvas
 
