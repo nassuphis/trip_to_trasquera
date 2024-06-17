@@ -7,7 +7,7 @@
 
 [βιογραφικο](./assets/biography/bio.txt)
 
-[friends](./pages/friends.md)
+[Friends](./pages/friends.md)
 
 [Editable google document for bio in greek and english](https://docs.google.com/document/d/1sQ4DpOQlkXaT3mgAqoA0ULMKo_tSICqe7Fv2u_9M9Gg/edit)
 
