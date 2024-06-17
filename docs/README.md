@@ -16,7 +16,7 @@
 
 ## Works 
 
-### Trasquera 1, 2023
+### Trasquera 1 (Afternoon Walk), 2023
 
 oil on canvas
 
@@ -31,7 +31,7 @@ The green grass and trees contrast sharply with the white snow, creating a dynam
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 
 
-### Trasquera 2, 2022
+### Trasquera 2 (Morning View), 2022
 
 oil on canvas
 
@@ -46,7 +46,7 @@ The clear blue sky contrasts with the rugged textures of the mountain, highlight
 This work captures the formidable beauty of the alpine environment.
 
 
-### Trasquera 3, 2023
+### Trasquera 3 (The Big Outdoors), 2023
 
 oil on canvas
 
@@ -62,7 +62,7 @@ The careful detailing of the rocky mountains and lush evergreens showcases the g
 This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
 
 
-### Trasquera 4, 2023
+### Trasquera 4 (Summer Porch View), 2023
 
 oil on canvas
 
@@ -72,12 +72,12 @@ oil on canvas
 
 [high resolution image](./pages/hires_trasquera4.md)
 
-This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in mist. 
+This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in clouds. 
 The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
 The composition invites viewers to enjoy a moment of calm reflection.
 
 
-### Trasquera 5, 2023
+### Trasquera 5 (Bugliaga di Trasquera), 2023
 
 oil on canvas
 
@@ -94,7 +94,7 @@ The detailed fence in the foreground guides the viewer’s eye towards the seren
 This work reflects the peaceful simplicity of rural life.
 
 
-### Trasquera 6, 2024
+### Trasquera 6 (Misty Day), 2024
 
 oil on canvas
 
@@ -110,7 +110,7 @@ The simple fence provides structure to the scene.
 This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
 
 
-### Trasquera 7, 2022
+### Trasquera 7 (Cloudy Day), 2022
 
 oil on canvas
 
@@ -126,7 +126,7 @@ A small stone building in the foreground provides a human touch.
 This painting captures the powerful presence of nature and its ever-changing moods.
 
 
-### Trasquera 8, 2023
+### Trasquera 8 (Winter Day), 2023
 
 oil on canvas
 
@@ -143,7 +143,7 @@ The restrained palette and minimalist composition emphasize the quiet beauty of 
 The painting captures the stillness and calm of a wintry day.
 
 
-### Trasquera 9, 2022
+### Trasquera 9 (Winter Walk), 2022
 
 oil on canvas
 
@@ -153,7 +153,7 @@ oil on canvas
 
 [high resolution image](./pages/hires_trasquera9.md)
 
-### Trasquera 10 (Τurns Οut It Was Not That Easy!), 2022
+### Trasquera 10 (Mistakes Were Made), 2022
 
 oil on canvas
 
@@ -164,6 +164,7 @@ oil on canvas
 [high resolution image](./pages/hires_trasquera10.md)
 
 Failure and frustration are part of the process. Some failures are memorable.
+The text reads: "turns out it was not that easy!"
 
 
 ## Catalogue
