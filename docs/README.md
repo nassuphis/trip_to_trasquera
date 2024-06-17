@@ -156,7 +156,7 @@ oil on canvas
 
 [high resolution image](./pages/hires_trasquera9.md)
 
-### Trasquera 10, 2022
+### Trasquera 10 (Τurns Οut It Was Not That Easy!), 2022
 
 oil on canvas
 
