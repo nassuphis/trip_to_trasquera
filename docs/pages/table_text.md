@@ -33,55 +33,53 @@
       <th>Text</th>
   </tr>
   <tr>
-      <td><img src="../assets/images_mum/mutti21.jpeg" alt="Image 5" width="100"></td>
+      <td><img src="../assets/images_mum/mutti21.jpeg" alt="Image 5" width="300"></td>
       <td class="text-column">Passion is a gift</td>
   </tr>
-  <tr>
-      <td><img src="../assets/images_mum/mutti23.jpeg" alt="Image 5" width="100"></td>
-      <td class="text-column">Just arrived in Greece</td>
-  </tr>
    <tr>
-      <td><img src="../assets/images_mum/mutti20.jpg" alt="Image 5" width="100"></td>
-      <td class="text-column">Three kids</td>
+      <td><img src="../assets/images_mum/mutti8.jpeg" alt="Image 5" width="300"></td>
+      <td class="text-column">Contemplating progress</td>
   </tr>
   <tr>
-      <td><img src="../assets/images_mum/mutti1.jpeg" alt="Image 1" width="100"></td>
+      <td><img src="../assets/images_mum/mutti1.jpeg" alt="Image 1" width="300"></td>
       <td class="text-column">At work</td>
   </tr>
   <tr>
-      <td><img src="../assets/images_mum/mutti2.jpeg" alt="Image 2" width="100"></td>
-      <td class="text-column">With the teacher</td>
+      <td><img src="../assets/images_mum/mutti6.jpeg" alt="Image 5" width="300"></td>
+      <td class="text-column">Completion is celebrated</td>
   </tr>
-  <tr>
-      <td><img src="../assets/images_mum/mutti3.jpeg" alt="Image 3" width="100"></td>
+   <tr>
+      <td><img src="../assets/images_mum/mutti2.jpeg" alt="Image 2" width="300"></td>
+      <td class="text-column">The teacher</td>
+  </tr>
+   <tr>
+      <td><img src="../assets/images_mum/mutti3.jpeg" alt="Image 3" width="300"></td>
       <td class="text-column">Funny snaps</td>
   </tr>
    <tr>
-      <td><img src="../assets/images_mum/mutti6.jpeg" alt="Image 5" width="100"></td>
-      <td class="text-column">Completing a work is celebrated.</td>
+      <td><img src="../assets/images_mum/mutti11.jpeg" alt="Image 5" width="300"></td>
+      <td class="text-column">The mountain</td>
   </tr>
   <tr>
-      <td><img src="../assets/images_mum/mutti7.jpeg" alt="Image 5" width="100"></td>
-      <td class="text-column">A lot of things need to be done.</td>
+      <td><img src="../assets/images_mum/mutti23.jpeg" alt="Image 5" width="300"></td>
+      <td class="text-column">Just arrived in Greece</td>
   </tr>
-  <tr>
-      <td><img src="../assets/images_mum/mutti8.jpeg" alt="Image 5" width="100"></td>
-      <td class="text-column">Contemplating the work.</td>
+   <tr>
+      <td><img src="../assets/images_mum/mutti20.jpg" alt="Image 5" width="300"></td>
+      <td class="text-column">Three kids</td>
   </tr>
+ 
+ 
+  
+ 
+ 
   <tr>
-      <td><img src="../assets/images_mum/mutti9.jpeg" alt="Image 5" width="100"></td>
+      <td><img src="../assets/images_mum/mutti9.jpeg" alt="Image 5" width="300"></td>
       <td class="text-column">With husband</td>
   </tr>
+ 
   <tr>
-      <td><img src="../assets/images_mum/mutti11.jpeg" alt="Image 5" width="100"></td>
-      <td class="text-column">The mountain.</td>
-  </tr>
-  <tr>
-      <td><img src="../assets/images_mum/mutti14.jpeg" alt="Image 5" width="100"></td>
-      <td class="text-column">Rest after work.</td>
-  </tr>
-  <tr>
-      <td><img src="../assets/images_mum/mutti17.jpeg" alt="Image 5" width="100"></td>
+      <td><img src="../assets/images_mum/mutti17.jpeg" alt="Image 5" width="300"></td>
       <td class="text-column">A father's love</td>
   </tr>
  
