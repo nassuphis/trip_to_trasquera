@@ -157,6 +157,11 @@ oil on canvas
 
 [high resolution image](./pages/hires_trasquera9.md)
 
+A tranquil winter scene in a dense forest. Leafless trees with snow-covered branches stand out against 
+a pale sky. The forest floor is blanketed in untouched snow, creating a peaceful and serene atmosphere. 
+The composition invites contemplation, capturing the quiet beauty of a winter's day.
+
+
 ### Trasquera 10 (Mistakes Were Made), 2022
 
 oil on canvas
