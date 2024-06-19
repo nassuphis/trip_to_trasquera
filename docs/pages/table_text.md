@@ -80,7 +80,7 @@
  
   <tr>
       <td><img src="../assets/images_mum/mutti17.jpeg" alt="Image 5" width="300"></td>
-      <td class="text-column">A father's love</td>
+      <td class="text-column">Father's love</td>
   </tr>
  
   
