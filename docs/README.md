@@ -6,7 +6,7 @@
 
 [Friends](./pages/friends.md)
 
-[Sigrid](./pages/table_text.md)
+[Sigrid](./pages/sigrid.md)
 
 [Text from friends and family](https://docs.google.com/document/d/1w6ly-SP4_yntUetdMLrPWJKqFw5wBb6exzNNrzvs8ug/edit)
 
