@@ -38,15 +38,15 @@
   </tr>
    <tr>
       <td><img src="../assets/images_mum/mutti8.jpeg" alt="Image 5" width="300"></td>
-      <td class="text-column">Contemplating progress</td>
+      <td class="text-column">Contemplation</td>
   </tr>
   <tr>
-      <td><img src="../assets/images_mum/mutti1.jpeg" alt="Image 1" width="300"></td>
+      <td><img src="../assets/images_trasquera/mutti7.jpg" alt="Image 1" width="300"></td>
       <td class="text-column">At work</td>
   </tr>
   <tr>
       <td><img src="../assets/images_mum/mutti6.jpeg" alt="Image 5" width="300"></td>
-      <td class="text-column">Completion is celebrated</td>
+      <td class="text-column">Celebrating Completion</td>
   </tr>
    <tr>
       <td><img src="../assets/images_mum/mutti2.jpeg" alt="Image 2" width="300"></td>
@@ -56,8 +56,8 @@
       <td><img src="../assets/images_mum/mutti3.jpeg" alt="Image 3" width="300"></td>
       <td class="text-column">Funny snaps</td>
   </tr>
-   <tr>
-      <td><img src="../assets/images_mum/mutti11.jpeg" alt="Image 5" width="300"></td>
+  <tr>
+      <td><img src="../assets/images_trasquera/mutti5.jpg" alt="Image 5" width="300"></td>
       <td class="text-column">The mountain</td>
   </tr>
   <tr>
