@@ -8,7 +8,8 @@
 
 [Sigrid](./pages/table_text.md)
 
-[Maps](./pages/maps.md)
+[Text from friends and family](https://docs.google.com/document/d/1w6ly-SP4_yntUetdMLrPWJKqFw5wBb6exzNNrzvs8ug/edit)
+
 
 [Editable Google Doc for Bio in Greek and English](https://docs.google.com/document/d/1sQ4DpOQlkXaT3mgAqoA0ULMKo_tSICqe7Fv2u_9M9Gg/edit)
 
@@ -16,7 +17,10 @@
 
 [Marlena's Text, Translated into English by Spilios](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
 
-[Photos](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
+[Photos from the Trip](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
+
+[Maps](./pages/maps.md)
+
 
 ## Works 
 
