@@ -184,11 +184,11 @@ The text reads: "turns out it was not that easy!"
 
 [Collage 1](./pages/collage_trasquera1.md)
 
-### Left Photos Page 1
+###  Photos Page 1 Left
 <img src="./assets/images_trasquera/collage_trasquera3.jpg" width="50%" />
 
 
-### Right Photos Page 1
+### Photos Page 1 Right 
 
 <img src="./assets/images/anto_soo.jpg" width="200px" />
 
@@ -202,22 +202,22 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 [Collage 2](./pages/collage_trasquera2.md)
 
-### Left Photos Page 2
+### Photos Page 2 Left 
 <img src="./assets/images_trasquera/collage_trasquera2.jpg" width="50%" />
 
 
-### Right Photos Page 2
+### Photos Page 2 Right 
 
 
 ## Photos Page 3
 
 [Collage 3](./pages/collage_trasquera1.md)
 
-### Left Photos Page 3
+### Photos Page 3 Left 
 <img src="./assets/images_trasquera/collage_trasquera1.jpg" width="50%" />
 
 
-### Right Photos Page 3
+### Photos Page 3 Right 
 
 
 ## End page
