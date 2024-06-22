@@ -6,18 +6,22 @@
 
 ## Biograpy 
 
+### Biography Left
+
+<img src="./assets/images_mum/mutti_collage.jpg"  width="50%" />
+
+
+### Biography Right
+
 [Editable Google Doc for Bio in Greek and English](https://docs.google.com/document/d/1sQ4DpOQlkXaT3mgAqoA0ULMKo_tSICqe7Fv2u_9M9Gg/edit)
 
-[Sigrid](./pages/sigrid.md)
+
 
 ## Introduction
 
 [Marlena's Text, Greek Language](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
 
 [Marlena's Text, Translated into English by Spilios](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
-
-[Text from friends and family](https://docs.google.com/document/d/1w6ly-SP4_yntUetdMLrPWJKqFw5wBb6exzNNrzvs8ug/edit)
-
 
 ## Works 
 
@@ -253,6 +257,11 @@ Our many thanks every friend who helped make this happen.
 
 [Photos from the Trip](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
 
+[Sigrid](./pages/sigrid.md)
+
 [Maps](./pages/maps.md)
+
+[Text from friends and family](https://docs.google.com/document/d/1w6ly-SP4_yntUetdMLrPWJKqFw5wBb6exzNNrzvs8ug/edit)
+
 
 
