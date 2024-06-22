@@ -21,11 +21,7 @@
 
 [Maps](./pages/maps.md)
 
-[Collage 1](./pages/collage_trasquera1.md)
 
-[Collage 2](./pages/collage_trasquera2.md)
-
-[Collage 3](./pages/collage_trasquera3.md)
 
 ## Works 
 
@@ -183,6 +179,46 @@ oil on canvas
 
 Failure and frustration are part of the process. Some failures are memorable.
 The text reads: "turns out it was not that easy!"
+
+## Photos Page 1
+
+[Collage 1](./pages/collage_trasquera1.md)
+
+### Left Photos Page 1
+<img src="./assets/images_trasquera/collage_trasquera3.jpg" width="50%" />
+
+
+### Right Photos Page 1
+
+<img src="./assets/images/anto_soo.jpg" width="200px" />
+
+Bugliaga Dentro is a tiny mountain village in the Italian Alps on the Swiss border. 
+Once abandoned and now beautifully reviving with a few families (5 of us), trying to safeguard its original charm. 
+We warmly welcome all our friends who long for silence and peace deep in the mountain.
+
+
+
+## Photos Page 2
+
+[Collage 2](./pages/collage_trasquera2.md)
+
+### Left Photos Page 2
+<img src="./assets/images_trasquera/collage_trasquera2.jpg" width="50%" />
+
+
+### Right Photos Page 2
+
+
+## Photos Page 3
+
+[Collage 3](./pages/collage_trasquera1.md)
+
+### Left Photos Page 3
+<img src="./assets/images_trasquera/collage_trasquera1.jpg" width="50%" />
+
+
+### Right Photos Page 3
+
 
 ## End page
 
