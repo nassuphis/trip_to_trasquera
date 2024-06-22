@@ -8,7 +8,7 @@
 
 ### Biography Left
 
-<img src="./assets/images_mum/mutti_collage.jpg"  width="50%" />
+<img src="./assets/images_mum/mutti_bio3.jpg"  width="50%" />
 
 
 ### Biography Right
