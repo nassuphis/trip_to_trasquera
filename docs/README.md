@@ -21,6 +21,11 @@
 
 [Maps](./pages/maps.md)
 
+[Collage 1](./pages/collage_trasquera1.md)
+
+[Collage 2](./pages/collage_trasquera2.md)
+
+[Collage 3](./pages/collage_trasquera3.md)
 
 ## Works 
 
