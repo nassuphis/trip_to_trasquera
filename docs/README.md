@@ -24,7 +24,7 @@
 .legend {
   text-align: center;
   margin-top: 5px;
-  font-size: 8px; /* Set the text size of the legend */
+  font-size: 0.7rem; /* Set the text size of the legend */
 }
 .legend-container {
   display: flex;
