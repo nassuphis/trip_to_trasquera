@@ -54,13 +54,13 @@
 
 @media (max-width: 992px) {
   .legend {
-    font-size: 0.25rem;
+    font-size: 0.275rem;
   }
 }
 
 @media (max-width: 768px) {
   .legend {
-    font-size: 0.20rem;
+    font-size: 0.25rem;
   }
 }
 
