@@ -42,19 +42,19 @@
 /* Media queries for responsive font scaling */
 @media (max-width: 2400px) {
   .legend {
-    font-size: 0.60rem;
+    font-size: 0.50rem;
   }
 }
 
 @media (max-width: 1200px) {
   .legend {
-    font-size: 0.45rem;
+    font-size: 0.40rem;
   }
 }
 
 @media (max-width: 992px) {
   .legend {
-    font-size: 0.35rem;
+    font-size: 0.30rem;
   }
 }
 
@@ -478,6 +478,8 @@ Our many thanks for the help of our friends.
 </div>
 
 </div>
+
+
 
 # Materials
 
