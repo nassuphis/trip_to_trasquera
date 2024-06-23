@@ -42,31 +42,31 @@
 /* Media queries for responsive font scaling */
 @media (max-width: 2400px) {
   .legend {
-    font-size: 0.50rem;
+    font-size: 0.60rem;
   }
 }
 
 @media (max-width: 1200px) {
   .legend {
-    font-size: 0.40rem;
+    font-size: 0.45rem;
   }
 }
 
 @media (max-width: 992px) {
   .legend {
-    font-size: 0.30rem;
+    font-size: 0.35rem;
   }
 }
 
 @media (max-width: 768px) {
   .legend {
-    font-size: 0.20rem;
+    font-size: 0.25rem;
   }
 }
 
 @media (max-width: 576px) {
   .legend {
-    font-size: 0.10rem;
+    font-size: 0.15rem;
   }
 }
 </style>
@@ -89,12 +89,12 @@
 </div>
 
 <div class="legend-container">
-<div class="legend" style="max-width: 40%;font-size: 0.5rem;">
+<div class="legend" style="max-width: 40%;">
 Born on November 8, 1940, in the scenic region of Bavaria, Germany, Sigrid Nassuphis developed an early appreciation for beauty and design. She pursued this passion academically at the University of Konstanz, where she studied graphic design and clothing. Her journey took a transformative turn in 1967 when she moved to Greece with her partner, who later became her beloved husband. In Greece, Sigrid initially worked as a graphic designer, bringing her creative flair to various projects. However, as her family grew with the arrival of three children, she chose to devote herself fully to their upbringing. Balancing her roles as a dedicated homemaker and a loving mother, Imingard never let go of her artistic spirit. She immersed herself in pottery and painting, finding joy and fulfillment in creating art that reflected her experiences and surroundings. Sigrid's love for the natural world was equally profound. She explored the breathtaking landscapes of Greece, hiking from the depths of the Vikos Gorge in the north to the heights of Mount Olympus, which
 she ascended multiple times. These adventures were a testament to her adventurous spirit and deep connection to nature.
 </div>
 <div class="legend"></div>
-<div class="legend" style="max-width: 40%;font-size: 0.5rem;">
+<div class="legend" style="max-width: 40%;">
 Γεννημένη στις 8 Νοεμβρίου 1940, στην γραφική περιοχή της Βαυαρίας, Γερμανία, η Σιγκριντ Νάσουφη 
 ανέπτυξε από νωρίς μια εκτίμηση για την ομορφιά και την Ζωραφικη. Ακολούθησε αυτο το πάθος ακαδημαϊκά στο Πανεπιστήμιο του Κόνσταντς, όπου σπούδασε γραφιστική και ένδυση. Το ταξίδι της πήρε μια απροσμενη τροπή το 1967, όταν μετακόμισε στην Ελλάδα με τον σύντροφό της, ο οποίος αργότερα έγινε ο αγαπημένος της σύζυγος.Στην Ελλάδα, η Σιγκριντ αρχικά εργάστηκε ως γραφίστρια, φέρνοντας τη δημιουργική της πινελιά σε διάφορα έργα. Ωστόσο, καθώς η οικογένειά της μεγάλωσε με την άφιξη τριών παιδιών, επέλεξε να αφιερωθεί πλήρως στην ανατροφή τους. Ισορροπώντας τους ρόλους της ως αφοσιωμένη νοικοκυρά και αγαπημένη μητέρα, η Σιγκριντ δεν εγκατέλειψε ποτέ το καλλιτεχνικό της πνεύμα. Ασχολήθηκε με την κεραμική και τη ζωγραφική, βρίσκοντας χαρά και ικανοποίηση στη δημιουργία τέχνης που αντικατόπτριζε τις εμπειρίες και τα περιβάλλοντά της.Η αγάπη της Σιγκριντ για τον φυσικό κόσμο ήταν εξίσου βαθιά. Εξερεύνησε τα μαγευτικά τοπία της Ελλάδας, περπατώντας από τα βάθη του φαραγγιού του Βίκου στον βορρά μέχρι τις κορυφές του Όλυμπου, τις οποίες ανέβηκε πολλές φορές. Αυτές οι περιπέτειες ήταν απόδειξη του περιπετειώδους πνεύματός της και της βαθιάς σύνδεσής της με τη φύση.
 </div>
