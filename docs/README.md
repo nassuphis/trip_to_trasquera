@@ -171,66 +171,126 @@ This work captures the formidable beauty of the alpine environment.
 
 ### Trasquera 3 (The Great Outdoors), 2023
 
-oil on canvas
+<div class="my-div">
 
-185 x 300 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera3.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 3 (The Great Outdoors), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 185 x 300 cm</div>
+</div>
+</div>
 
-<img src="./assets/images/trasquera3.jpg" height="185px" width="300px" />
-
-[high resolution image](./pages/hires_trasquera3.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
+In this painting, the artist depicts the panoramic beauty of Bugliaga di Trasquera. 
+The towering pines in the foreground contrast with the distant, snow-capped peaks. 
+The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
+This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
+</div>
+<div class="legend" style="max-width: 40%;">
 In this painting, the artist depicts the panoramic beauty of Bugliaga di Trasquera. 
 The towering pines in the foreground contrast with the distant, snow-capped peaks. 
 The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
 This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
 
+</div>
+</div>
+</div>
+
+[high resolution image](./pages/hires_trasquera3.md)
+
 
 ### Trasquera 4 (Summer Porch View), 2023
 
-oil on canvas
+<div class="my-div">
 
-90 x 120 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera4.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 4 (Summer Porch View), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
+</div>
+</div>
 
-<img src="./assets/images/trasquera4.jpg" height="180px" width="240px" />
-
-[high resolution image](./pages/hires_trasquera4.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in clouds. 
 The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
 The composition invites viewers to enjoy a moment of calm reflection.
+</div>
+<div class="legend" style="max-width: 40%;">
+This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in clouds. 
+The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
+The composition invites viewers to enjoy a moment of calm reflection.
+</div>
+</div>
+</div>
+
+
+[high resolution image](./pages/hires_trasquera4.md)
 
 
 ### Trasquera 5 (Bugliaga di Trasquera), 2023
 
-oil on canvas
+<div class="my-div">
 
-120 x 90 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera5.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 5 (Bugliaga di Trasquera), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm</div>
+</div>
+</div>
 
-
-<img src="./assets/images/trasquera5.jpg" height="240x" width="180px" />
-
-[high resolution image](./pages/hires_trasquera5.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 A quaint stone cottage is nestled amidst lush greenery in this vibrant painting. 
 The bright colors of the grass and trees are complemented by a clear blue sky. 
 The detailed fence in the foreground guides the viewer’s eye towards the serene home. 
 This work reflects the peaceful simplicity of rural life.
+</div>
+<div class="legend" style="max-width: 40%;">
+A quaint stone cottage is nestled amidst lush greenery in this vibrant painting. 
+The bright colors of the grass and trees are complemented by a clear blue sky. 
+The detailed fence in the foreground guides the viewer’s eye towards the serene home. 
+This work reflects the peaceful simplicity of rural life.
+</div>
+</div>
+</div>
+
+[high resolution image](./pages/hires_trasquera5.md)
 
 
 ### Trasquera 6 (Misty Day), 2024
 
-oil on canvas
+<div class="my-div">
 
-90 x 120 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera6.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 6 (Misty Day), 2024</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
+</div>
+</div>
 
-<img src="./assets/images/trasquera6.jpg" height="180px" width="240px" />
-
-[high resolution image](./pages/hires_trasquera6.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 In this misty landscape, the artist captures the ethereal beauty of foggy surroundings. 
 Indistinct shapes of trees and bushes blend into the soft, muted tones of the background. 
 The simple fence provides structure to the scene. 
 This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
+</div>
+<div class="legend" style="max-width: 40%;">
+In this misty landscape, the artist captures the ethereal beauty of foggy surroundings. 
+Indistinct shapes of trees and bushes blend into the soft, muted tones of the background. 
+The simple fence provides structure to the scene. 
+This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
+</div>
+</div>
+</div>
+
+[high resolution image](./pages/hires_trasquera6.md)
 
 
 ### Trasquera 7 (Cloudy Day), 2022
@@ -300,10 +360,10 @@ The text reads: "turns out it was not that easy!"
 <div class="image-with-legend">
 <img src="assets/images_trasquera/collage_trasquera3.jpg" alt="Image 1">
 </div>
-<div class="image-with-legend" style="max-width: 40%;">
-<img src="assets/images/anto_soo.jpg" alt="Image 2">
+<div class="image-with-legend" style="max-width: 48%;">
+<img src="assets/images/anto_soo.jpg" alt="Image 2"  style="max-width: 50%;">
 <div class="legend-container">
-<div class="legend"  style="max-width: 40%;">
+<div class="legend"  style="max-width: 50%;">
 Bugliaga Dentro is a tiny mountain village in the Italian Alps on the Swiss border. 
 Once abandoned and now beautifully reviving with a few families (5 of us), trying to safeguard its original charm. 
 We warmly welcome all our friends who long for silence and peace deep in the mountain.
