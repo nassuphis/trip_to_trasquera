@@ -436,27 +436,41 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 ## Photos Page 2
 
-[Collage 2](./pages/collage_trasquera2.md)
+<div class="my-div">
 
-### Photos Page 2 Left 
-<img src="./assets/images_trasquera/collage_trasquera2.jpg" width="50%" />
+<div class="image-with-legend">
+<img src="assets/images_trasquera/collage_trasquera2.jpg" alt="Image 1">
+</div>
 
-
-### Photos Page 2 Right 
-
+<div class="legend-container">
+<div class="legend"  style="max-width: 50%;">
 Απο πολυ μικρος θυμαμαι την μητερα μου να μου λεει ιστοριες για τους αγαπημενους της εξπρεσιονιστες ζωγραφους, να σκαλιζει το κασσελακι με τα πινελα και τις μπογιες. Θυμαμαι τις αγιογραφιες, τον πηλο, της εκδρομες στο βουνο. Τωρα που εχει αναγκη, σε αυτα ακουμπησε.
+</div>
+</div>
 
+</div>
+
+
+[Collage 2](./pages/collage_trasquera2.md)
 
 
 ## Photos Page 3
 
+<div class="my-div">
+
+<div class="image-with-legend">
+<img src="assets/images_trasquera/collage_trasquera1.jpg" alt="Image 1">
+</div>
+
+<div class="legend-container">
+<div class="legend"  style="max-width: 50%;">
+</div>
+</div>
+
+</div>
+
+
 [Collage 3](./pages/collage_trasquera1.md)
-
-### Photos Page 3 Left 
-<img src="./assets/images_trasquera/collage_trasquera1.jpg" width="50%" />
-
-
-### Photos Page 3 Right 
 
 
 ## Friends 
