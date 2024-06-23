@@ -24,7 +24,7 @@
 .legend {
   text-align: center;
   margin-top: 5px;
-  font-size: 0.33rem; /* Set the text size of the legend */
+  font-size: 1em; /* Set the text size of the legend */
 }
 .legend-container {
   display: flex;
@@ -32,6 +32,31 @@
   align-items: center; /* Centers the legends horizontally */
   justify-content: center; /* Centers the legends vertically */
   gap: 5px; /* Adds space between legends */
+}
+
+/* Media queries for responsive font scaling */
+@media (max-width: 1200px) {
+  .legend {
+    font-size: 0.40em;
+  }
+}
+
+@media (max-width: 992px) {
+  .legend {
+    font-size: 0.30em;
+  }
+}
+
+@media (max-width: 768px) {
+  .legend {
+    font-size: 0.20em;
+  }
+}
+
+@media (max-width: 576px) {
+  .legend {
+    font-size: 0.6rem;
+  }
 }
 </style>
 
