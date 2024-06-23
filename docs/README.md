@@ -42,25 +42,25 @@
 /* Media queries for responsive font scaling */
 @media (max-width: 2400px) {
   .legend {
-    font-size: 0.50rem;
+    font-size: 0.35rem;
   }
 }
 
 @media (max-width: 1200px) {
   .legend {
-    font-size: 0.40rem;
+    font-size: 0.30rem;
   }
 }
 
 @media (max-width: 992px) {
   .legend {
-    font-size: 0.30rem;
+    font-size: 0.25rem;
   }
 }
 
 @media (max-width: 768px) {
   .legend {
-    font-size: 0.25rem;
+    font-size: 0.20rem;
   }
 }
 
