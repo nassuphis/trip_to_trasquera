@@ -477,6 +477,8 @@ Our many thanks for the help of our friends.
 </div>
 </div>
 
+</div>
+
 # Materials
 
 
