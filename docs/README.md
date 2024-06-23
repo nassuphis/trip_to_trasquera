@@ -41,7 +41,7 @@
 /* Media queries for responsive font scaling */
 @media (max-width: 2400px) {
   .legend {
-    font-size: 0.8rem;
+    font-size: 1.0rem;
   }
 }
 
@@ -295,64 +295,122 @@ This painting evokes a dreamlike quality, reflecting the transient nature of the
 
 ### Trasquera 7 (Cloudy Day), 2022
 
-oil on canvas
+<div class="my-div">
 
-120 x 90 cm 
+<div class="image-with-legend">
+<img src="./assets/images/trasquera7.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 7 (Cloudy Day), 2022</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm </div>
+</div>
+</div>
 
-<img src="./assets/images/trasquera7.jpg" height="240px" width="180px" />
-
-[high resolution image](./pages/hires_trasquera7.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 This dramatic landscape features dark mountains under a turbulent sky. 
 Thick clouds part to reveal glimpses of blue, adding depth to the scene. 
 A small stone building in the foreground provides a human touch. 
 This painting captures the powerful presence of nature and its ever-changing moods.
+</div>
+<div class="legend" style="max-width: 40%;">
+This dramatic landscape features dark mountains under a turbulent sky. 
+Thick clouds part to reveal glimpses of blue, adding depth to the scene. 
+A small stone building in the foreground provides a human touch. 
+This painting captures the powerful presence of nature and its ever-changing moods.
+</div>
+</div>
+</div>
+
+
+[high resolution image](./pages/hires_trasquera7.md)
 
 
 ### Trasquera 8 (Winter Day), 2023
 
-oil on canvas
+<div class="my-div">
 
-120 x 90 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera8.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;"> Trasquera 8 (Winter Day), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm </div>
+</div>
+</div>
 
-
-<img src="./assets/images/trasquera8.jpg" height="240px" width="180px" />
-
-[high resolution image](./pages/hires_trasquera8.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 This monochromatic scene illustrates a winter landscape enveloped in fog. 
 The skeletal trees stand stark against the soft, misty background. 
 The restrained palette and minimalist composition emphasize the quiet beauty of the snow-covered terrain. 
 The painting captures the stillness and calm of a wintry day.
+</div>
+<div class="legend" style="max-width: 40%;">
+This monochromatic scene illustrates a winter landscape enveloped in fog. 
+The skeletal trees stand stark against the soft, misty background. 
+The restrained palette and minimalist composition emphasize the quiet beauty of the snow-covered terrain. 
+The painting captures the stillness and calm of a wintry day.
+</div>
+</div>
+</div>
+
+[high resolution image](./pages/hires_trasquera8.md)
 
 
 ### Trasquera 9 (Winter Walk), 2022
 
-oil on canvas
+<div class="my-div">
 
-120 x 90 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera9.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 9 (Winter Walk), 2022</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm </div>
+</div>
+</div>
 
-<img src="./assets/images/trasquera9.jpg" height="240px" width="180px" />
-
-[high resolution image](./pages/hires_trasquera9.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 A tranquil winter scene in a dense forest. Leafless trees with snow-covered branches stand out against 
 a pale sky. The forest floor is blanketed in untouched snow, creating a peaceful and serene atmosphere. 
 The composition invites contemplation, capturing the quiet beauty of a winter's day.
+</div>
+<div class="legend" style="max-width: 40%;">
+A tranquil winter scene in a dense forest. Leafless trees with snow-covered branches stand out against 
+a pale sky. The forest floor is blanketed in untouched snow, creating a peaceful and serene atmosphere. 
+The composition invites contemplation, capturing the quiet beauty of a winter's day.
+</div>
+</div>
+</div>
+
+[high resolution image](./pages/hires_trasquera9.md)
 
 
 ### Trasquera 10 (Mistakes Were Made), 2022
 
-oil on canvas
+<div class="my-div">
 
-100 x 70 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera10.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 10 (Mistakes Were Made), 2022</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 100 x 70 cm</div>
+</div>
+</div>
 
-<img src="./assets/images/trasquera10.jpg" height="200px" width="140px" />
-
-[high resolution image](./pages/hires_trasquera10.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 Failure and frustration are part of the process. Some failures are memorable.
 The text reads: "turns out it was not that easy!"
+</div>
+<div class="legend" style="max-width: 40%;">
+Failure and frustration are part of the process. Some failures are memorable.
+The text reads: "turns out it was not that easy!"
+</div>
+</div>
+</div>
+
+
+[high resolution image](./pages/hires_trasquera10.md)
 
 ## Photo Page 1
 
@@ -404,9 +462,17 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 ## End page
 
-<img src="./assets/images_trasquera/mutti4.jpg" width="100%" />
+<div class="my-div">
 
-Our many thanks every friend who helped make this happen.
+<div class="image-with-legend">
+<img src="./assets/images_trasquera/mutti4.jpg" alt="Image 1">
+</div>
+
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
+Our many thanks for the help of our friends.
+</div>
+</div>
 
 # Materials
 
