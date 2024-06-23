@@ -1,4 +1,6 @@
+
 <style>
+
 .my-div {
   display: flex;
   justify-content: center; /* Centers the images within the container */
@@ -6,25 +8,27 @@
   gap: 10px; /* Adds space between the images */
   padding: 10px;
   margin: 10px 0;
-   /* height: 100vh; Set the height to fill the viewport for demonstration */
+  height: 100%; /* Set the height to fill the viewport for demonstration */
 }
-.my-div img {
-  max-width: 48%; /* Ensures the images don't overflow */
-  max-height: 100%; /* Prevents the image from stretching beyond its container */
-  height: auto;
-  width: auto;
-}
+
 .image-with-legend {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Centers content vertically */
-  align-items: center; /* Centers content horizontally */
-  max-width: 48%; /* Ensures the container doesn't overflow */
+  justify-content: center; 
+  align-items: center;
+  max-width: 48%; 
 }
+
+.image-with-legend img {
+  max-width: 100%; 
+  height: auto;
+}
+
 .legend {
   text-align: center;
   margin-top: 5px;
-  font-size: 0.5em; /* Set the text size of the legend */
+  font-size: 1rem; 
+  max-width: 100%; 
 }
 .legend-container {
   display: flex;
@@ -35,35 +39,33 @@
 }
 
 /* Media queries for responsive font scaling */
-
 @media (max-width: 2400px) {
   .legend {
-    font-size: 0.50em;
+    font-size: 0.8rem;
   }
 }
 
-
 @media (max-width: 1200px) {
   .legend {
-    font-size: 0.40em;
+    font-size: 0.7rem;
   }
 }
 
 @media (max-width: 992px) {
   .legend {
-    font-size: 0.30em;
+    font-size: 0.6rem;
   }
 }
 
 @media (max-width: 768px) {
   .legend {
-    font-size: 0.20em;
+    font-size: 0.5rem;
   }
 }
 
 @media (max-width: 576px) {
   .legend {
-    font-size: 0.6rem;
+    font-size: 0.4rem;
   }
 }
 </style>
@@ -77,9 +79,13 @@
 ## Biograpy 
 
 <div class="my-div">
-<img src="./assets/images_mum/mutti_bio3.jpg" alt="Image 1">
-<div class="legend-container">
 
+<div class="image-with-legend">
+<img src="./assets/images_mum/mutti_bio3.jpg" alt="Image 1">
+<div class="legend"></div>
+</div>
+
+<div class="legend-container">
 <div class="legend" style="max-width: 40%;">
 Born on November 8, 1940, in the scenic region of Bavaria, Germany, Sigrid Nassuphis developed an early appreciation for beauty and design. She pursued this passion academically at the University of Konstanz, where she studied graphic design and clothing. Her journey took a transformative turn in 1967 when she moved to Greece with her partner, who later became her beloved husband. In Greece, Sigrid initially worked as a graphic designer, bringing her creative flair to various projects. However, as her family grew with the arrival of three children, she chose to devote herself fully to their upbringing. Balancing her roles as a dedicated homemaker and a loving mother, Imingard never let go of her artistic spirit. She immersed herself in pottery and painting, finding joy and fulfillment in creating art that reflected her experiences and surroundings. Sigrid's love for the natural world was equally profound. She explored the breathtaking landscapes of Greece, hiking from the depths of the Vikos Gorge in the north to the heights of Mount Olympus, which
 she ascended multiple times. These adventures were a testament to her adventurous spirit and deep connection to nature.
@@ -106,51 +112,61 @@ she ascended multiple times. These adventures were a testament to her adventurou
 
 ### Trasquera 1 (Afternoon Walk), 2023
 
+
 <div class="my-div">
 
 <div class="image-with-legend">
-<img src="./assets/images/trasquera1.jpg"  alt="Image 1">
-<div class="legend">Trasquera 1 (Afternoon Walk), 2023</div>
-<div class="legend">oil on canvas, 90 x 120 cm</div>
+<img src="./assets/images/trasquera1.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 1 (Afternoon Walk), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
+</div>
 </div>
 
 <div class="legend-container">
-
 <div class="legend" style="max-width: 40%;">
 A picturesque mountain scene in spring. A path winds through a verdant meadow, leading towards a forest and snow-capped mountains in the distance. The blue sky and vibrant vegetation create a beautiful contrast with the snowy peaks.
-
 A winding path through a verdant valley leads towards a snow-capped mountain in this vibrant painting. 
 The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 </div>
-<div class="legend"></div>
 <div class="legend" style="max-width: 40%;">
 Αυτή η εικόνα απεικονίζει ένα μονοπάτι που στρίβει μέσα από μια καταπράσινη κοιλάδα και οδηγεί προς ένα χιονισμένο βουνό. Το πράσινο γρασίδι και τα δέντρα δημιουργούν μια έντονη αντίθεση με το λευκό χιόνι στις κορυφές του βουνού, συνθέτοντας μια δυναμική και ζωντανή σκηνή. Ο ουρανός είναι καθαρός και γαλάζιος, προσθέτοντας στην αίσθηση της ηρεμίας και της φυσικής ομορφιάς του τοπίου.
-
-
 Ένα γραφικό ορεινό τοπίο την άνοιξη. Ένα μονοπάτι διασχίζει ένα καταπράσινο λιβάδι, οδηγώντας προς ένα δάσος και χιονισμένα βουνά στο βάθος. Ο γαλάζιος ουρανός και η ζωντανή βλάστηση δημιουργούν μια όμορφη αντίθεση με τις χιονισμένες κορυφές.
 </div>
-
 </div>
 </div>
-
 
 [high resolution image](./pages/hires_trasquera1.md)
 
 
 ### Trasquera 2 (Morning View), 2022
 
-oil on canvas
+<div class="my-div">
 
-120 x 90 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera2.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 2 (Morning View), 2022</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm</div>
+</div>
+</div>
 
-<img src="./assets/images/trasquera2.jpg" height="240px" width="180px" />
-
-[high resolution image](./pages/hires_trasquera2.md)
-
+<div class="legend-container">
+<div class="legend" style="max-width: 40%;">
 A commanding mountain peak dominates this composition, framed by detailed bushes and trees in the foreground. 
 The clear blue sky contrasts with the rugged textures of the mountain, highlighting its majestic presence. 
 This work captures the formidable beauty of the alpine environment.
+</div>
+<div class="legend" style="max-width: 40%;">
+A commanding mountain peak dominates this composition, framed by detailed bushes and trees in the foreground. 
+The clear blue sky contrasts with the rugged textures of the mountain, highlighting its majestic presence. 
+This work captures the formidable beauty of the alpine environment.
+</div>
+</div>
+</div>
+
+[high resolution image](./pages/hires_trasquera2.md)
 
 
 ### Trasquera 3 (The Great Outdoors), 2023
@@ -281,11 +297,13 @@ The text reads: "turns out it was not that easy!"
 ## Photo Page 1
 
 <div class="my-div">
-<img src="assets/images_trasquera/collage_trasquera3.jpg" alt="Image 1">
 <div class="image-with-legend">
+<img src="assets/images_trasquera/collage_trasquera3.jpg" alt="Image 1">
+</div>
+<div class="image-with-legend" style="max-width: 40%;">
 <img src="assets/images/anto_soo.jpg" alt="Image 2">
 <div class="legend-container">
-<div class="legend"  style="max-width: 33%;">
+<div class="legend"  style="max-width: 40%;">
 Bugliaga Dentro is a tiny mountain village in the Italian Alps on the Swiss border. 
 Once abandoned and now beautifully reviving with a few families (5 of us), trying to safeguard its original charm. 
 We warmly welcome all our friends who long for silence and peace deep in the mountain.
