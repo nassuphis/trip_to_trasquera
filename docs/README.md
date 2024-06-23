@@ -6,7 +6,7 @@
   gap: 10px; /* Adds space between the images */
   padding: 10px;
   margin: 10px 0;
-  height: 100vh; /* Set the height to fill the viewport for demonstration */
+   /* height: 100vh; Set the height to fill the viewport for demonstration */
 }
 .my-div img {
   max-width: 48%; /* Ensures the images don't overflow */
