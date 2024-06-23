@@ -42,31 +42,31 @@
 /* Media queries for responsive font scaling */
 @media (max-width: 2400px) {
   .legend {
-    font-size: 1.0rem;
+    font-size: 0.50rem;
   }
 }
 
 @media (max-width: 1200px) {
   .legend {
-    font-size: 0.7rem;
+    font-size: 0.40rem;
   }
 }
 
 @media (max-width: 992px) {
   .legend {
-    font-size: 0.6rem;
+    font-size: 0.30rem;
   }
 }
 
 @media (max-width: 768px) {
   .legend {
-    font-size: 0.5rem;
+    font-size: 0.20rem;
   }
 }
 
 @media (max-width: 576px) {
   .legend {
-    font-size: 0.4rem;
+    font-size: 0.10rem;
   }
 }
 </style>
