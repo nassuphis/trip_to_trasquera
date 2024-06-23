@@ -24,7 +24,7 @@
 .legend {
   text-align: center;
   margin-top: 5px;
-  font-size: 1em; /* Set the text size of the legend */
+  font-size: 0.5em; /* Set the text size of the legend */
 }
 .legend-container {
   display: flex;
@@ -35,6 +35,14 @@
 }
 
 /* Media queries for responsive font scaling */
+
+@media (max-width: 2400px) {
+  .legend {
+    font-size: 0.50em;
+  }
+}
+
+
 @media (max-width: 1200px) {
   .legend {
     font-size: 0.40em;
@@ -98,33 +106,37 @@ she ascended multiple times. These adventures were a testament to her adventurou
 
 ### Trasquera 1 (Afternoon Walk), 2023
 
-oil on canvas
+<div class="my-div">
 
-90 x 120 cm
+<div class="image-with-legend">
+<img src="./assets/images/trasquera1.jpg"  alt="Image 1">
+<div class="legend">Trasquera 1 (Afternoon Walk), 2023</div>
+<div class="legend">oil on canvas, 90 x 120 cm</div>
+</div>
 
-<img src="./assets/images/trasquera1.jpg" height="180px" width="240px" />
+<div class="legend-container">
 
-[high resolution image](./pages/hires_trasquera1.md)
-
-English:
-
-
+<div class="legend" style="max-width: 40%;">
 A picturesque mountain scene in spring. A path winds through a verdant meadow, leading towards a forest and snow-capped mountains in the distance. The blue sky and vibrant vegetation create a beautiful contrast with the snowy peaks.
-
 
 A winding path through a verdant valley leads towards a snow-capped mountain in this vibrant painting. 
 The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
-
-
-
-Greek:
-
-
+</div>
+<div class="legend"></div>
+<div class="legend" style="max-width: 40%;">
 Αυτή η εικόνα απεικονίζει ένα μονοπάτι που στρίβει μέσα από μια καταπράσινη κοιλάδα και οδηγεί προς ένα χιονισμένο βουνό. Το πράσινο γρασίδι και τα δέντρα δημιουργούν μια έντονη αντίθεση με το λευκό χιόνι στις κορυφές του βουνού, συνθέτοντας μια δυναμική και ζωντανή σκηνή. Ο ουρανός είναι καθαρός και γαλάζιος, προσθέτοντας στην αίσθηση της ηρεμίας και της φυσικής ομορφιάς του τοπίου.
 
 
 Ένα γραφικό ορεινό τοπίο την άνοιξη. Ένα μονοπάτι διασχίζει ένα καταπράσινο λιβάδι, οδηγώντας προς ένα δάσος και χιονισμένα βουνά στο βάθος. Ο γαλάζιος ουρανός και η ζωντανή βλάστηση δημιουργούν μια όμορφη αντίθεση με τις χιονισμένες κορυφές.
+</div>
+
+</div>
+</div>
+
+
+[high resolution image](./pages/hires_trasquera1.md)
+
 
 ### Trasquera 2 (Morning View), 2022
 
