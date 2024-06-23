@@ -134,7 +134,6 @@ The green grass and trees contrast sharply with the white snow, creating a dynam
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 </div>
 <div class="legend" style="max-width: 40%;">
-Αυτή η εικόνα απεικονίζει ένα μονοπάτι που στρίβει μέσα από μια καταπράσινη κοιλάδα και οδηγεί προς ένα χιονισμένο βουνό. Το πράσινο γρασίδι και τα δέντρα δημιουργούν μια έντονη αντίθεση με το λευκό χιόνι στις κορυφές του βουνού, συνθέτοντας μια δυναμική και ζωντανή σκηνή. Ο ουρανός είναι καθαρός και γαλάζιος, προσθέτοντας στην αίσθηση της ηρεμίας και της φυσικής ομορφιάς του τοπίου.
 Ένα γραφικό ορεινό τοπίο την άνοιξη. Ένα μονοπάτι διασχίζει ένα καταπράσινο λιβάδι, οδηγώντας προς ένα δάσος και χιονισμένα βουνά στο βάθος. Ο γαλάζιος ουρανός και η ζωντανή βλάστηση δημιουργούν μια όμορφη αντίθεση με τις χιονισμένες κορυφές.
 </div>
 </div>
@@ -162,9 +161,7 @@ The clear blue sky contrasts with the rugged textures of the mountain, highlight
 This work captures the formidable beauty of the alpine environment.
 </div>
 <div class="legend" style="max-width: 40%;">
-A commanding mountain peak dominates this composition, framed by detailed bushes and trees in the foreground. 
-The clear blue sky contrasts with the rugged textures of the mountain, highlighting its majestic presence. 
-This work captures the formidable beauty of the alpine environment.
+Ένα επιβλητικό βουνό κυριαρχεί σε αυτή τη σύνθεση, πλαισιωμένο από λεπτομερείς θάμνους και δέντρα στο προσκήνιο. Ο καθαρός γαλάζιος ουρανός αντιπαρατίθεται με τις τραχιές υφές του βουνού, τονίζοντας την μεγαλοπρεπή του παρουσία. Αυτό το έργο αιχμαλωτίζει την επιβλητική ομορφιά του αλπικού περιβάλλοντος.
 </div>
 </div>
 </div>
@@ -192,11 +189,10 @@ The careful detailing of the rocky mountains and lush evergreens showcases the g
 This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
 </div>
 <div class="legend" style="max-width: 40%;">
-In this painting, the artist depicts the panoramic beauty of Bugliaga di Trasquera. 
-The towering pines in the foreground contrast with the distant, snow-capped peaks. 
-The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
-This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
-
+Σε αυτόν τον πίνακα, ο καλλιτέχνης απεικονίζει την πανοραμική ομορφιά της  Bugliaga di Trasquera.
+Τα ψηλά πεύκα στο προσκήνιο έρχονται σε αντίθεση με τις μακρινές, χιονισμένες κορυφές.
+Η προσεκτική λεπτομέρεια των βραχώδων βουνών και των πλούσιων αειθαλών δέντρων αναδεικνύει το μεγαλείο του αλπικού τοπίου.
+Αυτό το έργο αποτυπώνει τη γαλήνια μεγαλοπρέπεια της φύσης, προσκαλώντας τους θεατές να εκτιμήσουν την ήρεμη ομορφιά της.
 </div>
 </div>
 </div>
@@ -223,9 +219,9 @@ The interplay of light and shadow, along with the lush foliage climbing the wood
 The composition invites viewers to enjoy a moment of calm reflection.
 </div>
 <div class="legend" style="max-width: 40%;">
-This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in clouds. 
-The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
-The composition invites viewers to enjoy a moment of calm reflection.
+Αυτός ο πίνακας παρουσιάζει μια αγροτική βεράντα με θέα ένα πυκνό δάσος και μακρινά βουνά καλυμμένα με σύννεφα.
+Το παιχνίδι του φωτός και της σκιάς, μαζί με την πλούσια βλάστηση που αναρριχάται στους ξύλινους στύλους, δημιουργεί μια ήρεμη σκηνή.
+Η σύνθεση προσκαλεί τους θεατές να απολαύσουν μια στιγμή ήρεμης σκέψης.
 </div>
 </div>
 </div>
@@ -254,10 +250,10 @@ The detailed fence in the foreground guides the viewer’s eye towards the seren
 This work reflects the peaceful simplicity of rural life.
 </div>
 <div class="legend" style="max-width: 40%;">
-A quaint stone cottage is nestled amidst lush greenery in this vibrant painting. 
-The bright colors of the grass and trees are complemented by a clear blue sky. 
-The detailed fence in the foreground guides the viewer’s eye towards the serene home. 
-This work reflects the peaceful simplicity of rural life.
+Ένα γραφικό πέτρινο εξοχικό βρίσκεται φωλιασμένο μέσα στην πλούσια βλάστηση σε αυτόν τον ζωντανό πίνακα.
+Τα έντονα χρώματα του γρασιδιού και των δέντρων συμπληρώνονται από έναν καθαρό γαλανό ουρανό.
+Ο λεπτομερής φράχτης στο προσκήνιο καθοδηγεί το βλέμμα του θεατή προς το γαλήνιο σπίτι.
+Αυτό το έργο αντικατοπτρίζει την ειρηνική απλότητα της αγροτικής ζωής.
 </div>
 </div>
 </div>
@@ -285,10 +281,10 @@ The simple fence provides structure to the scene.
 This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
 </div>
 <div class="legend" style="max-width: 40%;">
-In this misty landscape, the artist captures the ethereal beauty of foggy surroundings. 
-Indistinct shapes of trees and bushes blend into the soft, muted tones of the background. 
-The simple fence provides structure to the scene. 
-This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
+Σε αυτό το ομιχλώδες τοπίο, ο καλλιτέχνης αποτυπώνει την αιθέρια ομορφιά του περιβάλλοντος.
+Οι ασαφείς μορφές δέντρων και θάμνων συγχωνεύονται με τους απαλούς, σιωπηλούς τόνους του φόντου.
+Ο απλός φράχτης προσδίδει δομή στη σκηνή.
+Αυτός ο πίνακας αποπνέει μια ονειρική ποιότητα, αντικατοπτρίζοντας τη φευγαλέα φύση της ομίχλης.
 </div>
 </div>
 </div>
@@ -316,10 +312,10 @@ A small stone building in the foreground provides a human touch.
 This painting captures the powerful presence of nature and its ever-changing moods.
 </div>
 <div class="legend" style="max-width: 40%;">
-This dramatic landscape features dark mountains under a turbulent sky. 
-Thick clouds part to reveal glimpses of blue, adding depth to the scene. 
-A small stone building in the foreground provides a human touch. 
-This painting captures the powerful presence of nature and its ever-changing moods.
+Αυτό το δραματικό τοπίο παρουσιάζει σκοτεινά βουνά κάτω από έναν ταραγμένο ουρανό.
+Πυκνά σύννεφα ανοίγουν για να αποκαλύψουν ματιές του μπλε, προσθέτοντας βάθος στη σκηνή.
+Ένα μικρό πέτρινο κτίσμα στο προσκήνιο προσδίδει μια ανθρώπινη πινελιά.
+Αυτός ο πίνακας αποτυπώνει την ισχυρή παρουσία της φύσης και τις συνεχώς μεταβαλλόμενες διαθέσεις της.
 </div>
 </div>
 </div>
@@ -348,11 +344,10 @@ The restrained palette and minimalist composition emphasize the quiet beauty of 
 The painting captures the stillness and calm of a wintry day.
 </div>
 <div class="legend" style="max-width: 40%;">
-This monochromatic scene illustrates a winter landscape enveloped in fog. 
-The skeletal trees stand stark against the soft, misty background. 
-The restrained palette and minimalist composition emphasize the quiet beauty of the snow-covered terrain. 
-The painting captures the stillness and calm of a wintry day.
-</div>
+Αυτή η μονοχρωματική σκηνή απεικονίζει ένα χειμερινό τοπίο τυλιγμένο στην ομίχλη.
+Τα σκελετωμένα δέντρα ξεχωρίζουν έντονα ενάντια στο απαλό, ομιχλώδες φόντο.
+Η περιορισμένη παλέτα και η μινιμαλιστική σύνθεση τονίζουν την ήρεμη ομορφιά του χιονισμένου τοπίου.
+Ο πίνακας αποτυπώνει την ακινησία και την ηρεμία μιας χειμωνιάτικης ημέρας.</div>
 </div>
 </div>
 
@@ -378,9 +373,7 @@ a pale sky. The forest floor is blanketed in untouched snow, creating a peaceful
 The composition invites contemplation, capturing the quiet beauty of a winter's day.
 </div>
 <div class="legend" style="max-width: 40%;">
-A tranquil winter scene in a dense forest. Leafless trees with snow-covered branches stand out against 
-a pale sky. The forest floor is blanketed in untouched snow, creating a peaceful and serene atmosphere. 
-The composition invites contemplation, capturing the quiet beauty of a winter's day.
+Μια ήρεμη χειμερινή σκηνή σε ένα πυκνό δάσος. Γυμνά δέντρα με χιονισμένα κλαδιά ξεχωρίζουν ενάντια σε έναν απαλό ουρανό. Το δάπεδο του δάσους είναι καλυμμένο με ανέγγιχτο χιόνι, δημιουργώντας μια γαλήνια και ήρεμη ατμόσφαιρα. Η σύνθεση προσκαλεί σε περισυλλογή, αποτυπώνοντας την ήσυχη ομορφιά μιας χειμωνιάτικης ημέρας.
 </div>
 </div>
 </div>
@@ -406,8 +399,8 @@ Failure and frustration are part of the process. Some failures are memorable.
 The text reads: "turns out it was not that easy!"
 </div>
 <div class="legend" style="max-width: 40%;">
-Failure and frustration are part of the process. Some failures are memorable.
-The text reads: "turns out it was not that easy!"
+Η αποτυχία και η απογοήτευση είναι μέρος της διαδικασίας. Κάποιες αποτυχίες είναι αξέχαστες.
+Το κείμενο λέει: "Τελικα δεν ήταν τόσο εύκολο!"
 </div>
 </div>
 </div>
@@ -445,6 +438,9 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 <div class="legend-container">
 <div class="legend"  style="max-width: 50%;">
 Απο πολυ μικρος θυμαμαι την μητερα μου να μου λεει ιστοριες για τους αγαπημενους της εξπρεσιονιστες ζωγραφους, να σκαλιζει το κασσελακι με τα πινελα και τις μπογιες. Θυμαμαι τις αγιογραφιες, τον πηλο, της εκδρομες στο βουνο. Τωρα που εχει αναγκη, σε αυτα ακουμπησε.
+</div>
+<div class="legend"  style="max-width: 50%;">
+Ever since I can remember, my mother loved the outdoors, trees, mountains, rivers. She marvels at nature. Going for week long walks around islands or climbing mountains with her friends sleeping in tents or in the front yard of small countryside churches. Always bring back plants, shells, stones and impressions she incorporates in her creative work. Whether in her wild plant garden (from her trips), a macrame curtain with pottery beads and leafs (from pottery experimentation) or her numerous, drawing and above all painting. In that sense the current circle of works is very fitting.
 </div>
 </div>
 
