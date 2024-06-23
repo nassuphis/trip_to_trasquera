@@ -247,7 +247,7 @@ The text reads: "turns out it was not that easy!"
 <div class="image-with-legend">
 <img src="assets/images/anto_soo.jpg" alt="Image 2">
 <div class="legend-container">
-<div class="legend">
+<div class="legend"  style="max-width: 33%;">
 Bugliaga Dentro is a tiny mountain village in the Italian Alps on the Swiss border. 
 Once abandoned and now beautifully reviving with a few families (5 of us), trying to safeguard its original charm. 
 We warmly welcome all our friends who long for silence and peace deep in the mountain.
