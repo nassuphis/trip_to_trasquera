@@ -27,7 +27,7 @@
 .legend {
   text-align: center;
   margin-top: 5px;
-  font-size: 1rem; 
+  font-size: 0.5rem; 
   max-width: 100%; 
 }
 .legend-container {
