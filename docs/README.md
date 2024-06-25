@@ -97,7 +97,7 @@ the place transformed it into a series of twelve, created over the next two year
 This catalogue presents these paintings.
 
 
-<hr>
+##
 
 
 Τον Μάρτιο του 2022, ο πατέρας μου, ο αγαπημένος σύζυγος της Σιγκρίντ, απεβίωσε.
