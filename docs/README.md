@@ -546,7 +546,10 @@ The text reads: "turns out it was not that easy!"
 <div class="image-with-legend">
 <img src="assets/images_trasquera/collage_trasquera3.jpg" alt="Image 1">
 </div>
-<div class="image-with-legend" style="max-width: 48%;">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend" style="width: 50%;">
 <img src="assets/images/anto_soo.jpg" alt="Image 2"  style="max-width: 50%;">
 <div class="legend-container">
 <div class="legend"  style="max-width: 50%;">
@@ -573,7 +576,9 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 <img src="assets/images_trasquera/collage_trasquera2.jpg" alt="Image 1">
 </div>
 
-<div class="legend-container">
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
 <div class="legend"  style="max-width: 50%;">
 Απο πολυ μικρος θυμαμαι την μητερα μου να μου λεει ιστοριες για τους αγαπημενους της εξπρεσιονιστες ζωγραφους, να σκαλιζει το κασσελακι με τα πινελα και τις μπογιες. Θυμαμαι τις αγιογραφιες, τον πηλο, της εκδρομες στο βουνο. Τωρα που εχει αναγκη, σε αυτα ακουμπησε.
 </div>
