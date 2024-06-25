@@ -78,6 +78,8 @@
 
 ## Introduction
 
+In March 2022, my father, Sigrid's beloved husband, passed away.
+
 I spent most of that year keeping her company. In September, we embarked on an 
 extended trip to Bugliaga di Trasquera—a magical place kept alive and thriving 
 largely thanks to my wonderful friends, Antonio and Soo.
