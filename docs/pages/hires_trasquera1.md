@@ -8,6 +8,9 @@ A winding path through a verdant valley leads towards a snow-capped mountain in 
 The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
 The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 
+
+Ένα γραφικό ορεινό τοπίο την άνοιξη. Ένα μονοπάτι διασχίζει ένα καταπράσινο λιβάδι, οδηγώντας προς ένα δάσος και χιονισμένα βουνά στο βάθος. Ο γαλάζιος ουρανός και η ζωντανή βλάστηση δημιουργούν μια όμορφη αντίθεση με τις χιονισμένες κορυφές.
+
 <hr>
 
 [Download TIFF Image (very large)](https://sigrid-paintings.s3.amazonaws.com/wetransfer_zigrid-photos-tiff-part-1-2_2024-05-31_1621/trasquera1.tif)

@@ -8,6 +8,13 @@ The towering pines in the foreground contrast with the distant, snow-capped peak
 The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
 This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
 
+
+Σε αυτόν τον πίνακα, ο καλλιτέχνης απεικονίζει την πανοραμική ομορφιά της  Bugliaga di Trasquera.
+Τα ψηλά πεύκα στο προσκήνιο έρχονται σε αντίθεση με τις μακρινές, χιονισμένες κορυφές.
+Η προσεκτική λεπτομέρεια των βραχώδων βουνών και των πλούσιων αειθαλών δέντρων αναδεικνύει το μεγαλείο του αλπικού τοπίου.
+Αυτό το έργο αποτυπώνει τη γαλήνια μεγαλοπρέπεια της φύσης, προσκαλώντας τους θεατές να εκτιμήσουν την ήρεμη ομορφιά της.
+
+
 <hr>
 
 [Download TIFF Image (very large)](https://sigrid-paintings.s3.amazonaws.com/wetransfer_zigrid-photos-tiff-part-1-2_2024-05-31_1621/trasquera3.tif)

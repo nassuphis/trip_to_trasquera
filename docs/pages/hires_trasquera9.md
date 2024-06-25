@@ -8,6 +8,9 @@ A tranquil winter scene in a dense forest. Leafless trees with snow-covered bran
 a pale sky. The forest floor is blanketed in untouched snow, creating a peaceful and serene atmosphere. 
 The composition invites contemplation, capturing the quiet beauty of a winter's day.
 
+
+Μια ήρεμη χειμερινή σκηνή σε ένα πυκνό δάσος. Γυμνά δέντρα με χιονισμένα κλαδιά ξεχωρίζουν ενάντια σε έναν απαλό ουρανό. Το δάπεδο του δάσους είναι καλυμμένο με ανέγγιχτο χιόνι, δημιουργώντας μια γαλήνια και ήρεμη ατμόσφαιρα. Η σύνθεση προσκαλεί σε περισυλλογή, αποτυπώνοντας την ήσυχη ομορφιά μιας χειμωνιάτικης ημέρας.
+
 <hr>
 
 [Download TIFF Image (very large)](https://sigrid-paintings.s3.amazonaws.com/wetransfer_zigrid-photos-tiff-part-1-2_2024-05-31_1621/trasquera9.tif)
