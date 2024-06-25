@@ -6,3 +6,17 @@
 
 
 
+ Trasquera 8 (Winter Day), 2023
+ 
+ 
+ oil on canvas, 120 x 87 cm
+ 
+ 
+ This monochromatic scene illustrates a winter landscape enveloped in fog. 
+The skeletal trees stand stark against the soft, misty background. 
+The restrained palette and minimalist composition emphasize the quiet beauty of the snow-covered terrain. 
+The painting captures the stillness and calm of a wintry day.
+
+
+
+ 
