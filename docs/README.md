@@ -208,7 +208,7 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 <img src="./assets/images/trasquera4.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Trasquera 4 (Summer Porch View), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
 </div>
 </div>
 
@@ -269,7 +269,7 @@ This work reflects the peaceful simplicity of rural life.
 <img src="./assets/images/trasquera6.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Trasquera 6 (Misty Day), 2024</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
 </div>
 </div>
 
@@ -332,7 +332,7 @@ This painting captures the powerful presence of nature and its ever-changing moo
 <img src="./assets/images/trasquera8.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;"> Trasquera 8 (Winter Day), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm </div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 87 cm </div>
 </div>
 </div>
 
