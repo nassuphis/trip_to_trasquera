@@ -76,6 +76,8 @@
 
 **Sigrid Nassuphis** (b. 1940)
 
+<hr style="height: 5px; background-color: #000; border: none;">
+
 ## Introduction
 
 In March 2022, my father, Sigrid's beloved husband, passed away.
@@ -94,6 +96,21 @@ the place transformed it into a series of twelve, created over the next two year
 
 This catalogue presents these paintings.
 
+
+<hr>
+
+
+Τον Μάρτιο του 2022, ο πατέρας μου, ο αγαπημένος σύζυγος της Σιγκρίντ, απεβίωσε.
+
+Πέρασα το μεγαλύτερο μέρος εκείνης της χρονιάς κρατώντας της συντροφιά. Τον Σεπτέμβριο, ξεκινήσαμε ένα εκτεταμένο ταξίδι στο Μπουλιάγκα ντι Τρασκουέρα—ένα μαγευτικό μέρος που διατηρείται ζωντανό και ανθίζει χάρη στους υπέροχους φίλους μου, τον Αντόνιο και τη Σου.
+
+Το Μπουλιάγκα ντι Τρασκουέρα είναι ιδανικό για κάποιον που αναζητά ένα είδος επαναφοράς, και ήμουν πεπεισμένος ότι θα έκανε πολύ καλό στη Σιγκρίντ. Περάσαμε υπέροχα.
+
+Μετά την επιστροφή στην Αθήνα, αποφασίσαμε ότι ένας πίνακας εμπνευσμένος από τον χρόνο μας στο Μπουλιάγκα θα ήταν το πιο κατάλληλο ευχαριστηριο δώρο  για τους ευγενικούς μας οικοδεσπότες. Αρχικά, αυτό το σχέδιο περιλάμβανε μόνο έναν πίνακα, αλλά ο ενθουσιασμός της Σιγκρίντ το μετέτρεψε σε μια σειρά από δώδεκα, δημιουργημένα κατά τη διάρκεια των επόμενων δύο χρόνων.
+
+Αυτός ο κατάλογος παρουσιάζει αυτούς τους πίνακες.
+
+<hr>
 
 ## Biograpy 
 
@@ -121,14 +138,15 @@ she ascended multiple times. These adventures were a testament to her adventurou
 </div>
 
 
+<hr>
 
-
-## Introduction
+## Text from Marlena
 
 [Marlena's Text, Greek Language](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
 
 [Marlena's Text, Translated into English by Spilios](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
 
+<hr>
 ## Works 
 
 ### Trasquera 1 (Afternoon Walk), 2023
@@ -160,6 +178,7 @@ The path symbolizes a journey through the natural landscape, inviting viewers to
 [Click here for high resolution image](./pages/hires_trasquera1.md)
 
 
+<hr>
 ### Trasquera 2 (Morning View), 2022
 
 <div class="my-div">
@@ -186,7 +205,7 @@ This work captures the formidable beauty of the alpine environment.
 
 [Click here for high resolution image](./pages/hires_trasquera2.md)
 
-
+<hr>
 ### Trasquera 3 (The Great Outdoors), 2023
 
 <div class="my-div">
@@ -217,7 +236,7 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 
 [Click here for high resolution image](./pages/hires_trasquera3.md)
 
-
+<hr>
 ### Trasquera 4 (Summer Porch View), 2023
 
 <div class="my-div">
@@ -247,7 +266,7 @@ The composition invites viewers to enjoy a moment of calm reflection.
 
 [Click here for high resolution image](./pages/hires_trasquera4.md)
 
-
+<hr>
 ### Trasquera 5 (Bugliaga di Trasquera), 2023
 
 <div class="my-div">
@@ -278,7 +297,7 @@ This work reflects the peaceful simplicity of rural life.
 
 [Click here for high resolution image](./pages/hires_trasquera5.md)
 
-
+<hr>
 ### Trasquera 6 (Misty Day), 2024
 
 <div class="my-div">
@@ -309,7 +328,7 @@ This painting evokes a dreamlike quality, reflecting the transient nature of the
 
 [Click here for high resolution image](./pages/hires_trasquera6.md)
 
-
+<hr>
 ### Trasquera 7 (Cloudy Day), 2022
 
 <div class="my-div">
@@ -341,7 +360,7 @@ This painting captures the powerful presence of nature and its ever-changing moo
 
 [Click here for high resolution image](./pages/hires_trasquera7.md)
 
-
+<hr>
 ### Trasquera 8 (Winter Day), 2023
 
 <div class="my-div">
@@ -371,7 +390,7 @@ The painting captures the stillness and calm of a wintry day.
 
 [Click here for high resolution image](./pages/hires_trasquera8.md)
 
-
+<hr>
 ### Trasquera 9 (Winter Walk), 2022
 
 <div class="my-div">
@@ -398,7 +417,7 @@ The composition invites contemplation, capturing the quiet beauty of a winter's 
 
 [Click here for high resolution image](./pages/hires_trasquera9.md)
 
-
+<hr>
 ### Trasquera 10 (Mistakes Were Made), 2022
 
 <div class="my-div">
@@ -426,6 +445,7 @@ The text reads: "turns out it was not that easy!"
 
 [Click here for high resolution image](./pages/hires_trasquera10.md)
 
+<hr>
 ## Our Gracious Hosts
 
 <div class="my-div">
@@ -445,7 +465,8 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 </div>
 
 
-## Comments
+<hr>
+## Memories
 
 <div class="my-div">
 
@@ -468,6 +489,7 @@ Ever since I can remember, my mother loved the outdoors, trees, mountains, river
 [Collage 2](./pages/collage_trasquera2.md)
 
 
+<hr>
 ## Photos Page 3
 
 <div class="my-div">
@@ -487,10 +509,13 @@ Ever since I can remember, my mother loved the outdoors, trees, mountains, river
 [Collage 3](./pages/collage_trasquera1.md)
 
 
+<hr>
 ## Friends 
 
 [Friends](./pages/friends.md)
 
+
+<hr>
 ## End page
 
 <div class="my-div">
@@ -509,7 +534,9 @@ Our many thanks for the help of our friends.
 
 
 
-# Materials
+<hr style="height: 5px; background-color: #000; border: none;">
+
+# Materials (not in catalogue)
 
 
 ## Catalogue
