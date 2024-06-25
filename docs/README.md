@@ -83,7 +83,7 @@ extended trip to Bugliaga di Trasquera—a magical place kept alive and thriving
 largely thanks to my wonderful friends, Antonio and Soo.
 
 Bugliaga di Trasquera is perfect for someone seeking a kind of reset, and I was 
-convinced it would do Sigrid a lot of good. Indeed, we had a wonderful time there.
+convinced it would do Sigrid a lot of good. We had a wonderful time there.
 
 After returning to Athens, we decided that a painting inspired by our time in 
 Bugliaga would be the most fitting "thank you" gift to our gracious hosts. 
