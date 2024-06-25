@@ -76,7 +76,7 @@
 
 **Sigrid Nassuphis** (b. 1940)
 
-## Intorduction
+## Introrduction
 
 My father, Sigrid's beloved husband, passed away in March 2022. 
 
@@ -91,16 +91,14 @@ Bugliaga di Trasquera is ideal for someone who wants a kind of reset, and I was
 convinced that it would do Sigrid a lot of good. We had a wonderful time. 
 
 
-After we returned to Athens, we though that a painting inspired by our time 
+After we returned to Athens, we thought that a painting inspired by our time 
 in Bugliaga would be the most appropriate "thank you" gift to our gracious 
 hosts. This was the initial plan, but it did not survive Sigrid's enthusiasm 
 for the place: The one "gift" painting turned into a series of 12, 
 made over the next 2 years.
 
 
-These paintings be seen in this catalogue.
-
-
+The paintings be seen in this catalogue.
 
 
 
