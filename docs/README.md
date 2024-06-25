@@ -76,7 +76,7 @@
 
 **Sigrid Nassuphis** (b. 1940)
 
-## Introrduction
+## Introduction
 
 My father, Sigrid's beloved husband, passed away in March 2022. 
 
