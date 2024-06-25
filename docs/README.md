@@ -123,6 +123,8 @@ This catalogue presents these paintings.
 </div>
 </div>
 
+<div style="width: 2px; background-color: #333; margin: 0 20px;"></div>
+ 
 <div class="legend-container">
 <div class="legend" style="max-width: 40%;">
 Born on November 8, 1940, in the scenic region of Bavaria, Germany, Sigrid Nassuphis developed an early appreciation for beauty and design. She pursued this passion academically at the University of Konstanz, where she studied graphic design and clothing. Her journey took a transformative turn in 1967 when she moved to Greece with her partner, who later became her beloved husband. In Greece, Sigrid initially worked as a graphic designer, bringing her creative flair to various projects. However, as her family grew with the arrival of three children, she chose to devote herself fully to their upbringing. Balancing her roles as a dedicated homemaker and a loving mother, Imingard never let go of her artistic spirit. She immersed herself in pottery and painting, finding joy and fulfillment in creating art that reflected her experiences and surroundings. Sigrid's love for the natural world was equally profound. She explored the breathtaking landscapes of Greece, hiking from the depths of the Vikos Gorge in the north to the heights of Mount Olympus, which
