@@ -654,7 +654,9 @@ Our many thanks for the help of our friends.
 
 # Materials (not in catalogue)
 
-[Download All Images (1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
+[Download All Images (TIFF, 1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
+
+[Image Descriptions (DOCX file)](https://sigrid-paintings.s3.amazonaws.com/image_descriptions.docx)
 
 [Photos from the Trip](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
 
