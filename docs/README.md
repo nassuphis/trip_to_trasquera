@@ -45,19 +45,19 @@
 /* Media queries for responsive font scaling */
 @media (max-width: 2400px) {
   .legend {
-    font-size: 0.35rem;
+    font-size: 0.60rem;
   }
 }
 
 @media (max-width: 1200px) {
   .legend {
-    font-size: 0.30rem;
+    font-size: 0.50rem;
   }
 }
 
 @media (max-width: 992px) {
   .legend {
-    font-size: 0.275rem;
+    font-size: 0.30rem;
   }
 }
 
@@ -654,26 +654,7 @@ Our many thanks for the help of our friends.
 
 # Materials (not in catalogue)
 
-
-## Catalogue
-
-[Catalogue by Hector](./pages/catalogue.md)
-
-[Editable google document for catalogue](https://docs.google.com/document/d/1F8fE1ziBNncg0rBux5B0DywCj69HqsNfIOjmFNKT-0g/edit)
-
-[catalogue ideas](https://docs.google.com/document/d/1YIE7a2ftaCL6ZNw3IFulUQzg-TdDAcnLaK8citgxnzc/edit)
-
-
-## Invite
-
-[Invite by Hector](./pages/invite.md)
-
-[Editable google document for invite](https://docs.google.com/document/d/1P8rk-6X8nB4sFs0FTDmRlq6dvZCGXMrfTml5mxldn1E/edit)
-
-[invite ideas](https://docs.google.com/document/d/1kRX8rgJcJM5kFswvZBf8I15jouDGcAQ3VPm_JGW8PGY/edit)
-
-
-## More Info
+[Download All Images (1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
 
 [Photos from the Trip](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
 
