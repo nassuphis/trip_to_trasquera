@@ -157,7 +157,7 @@ The path symbolizes a journey through the natural landscape, inviting viewers to
 </div>
 </div>
 
-[high resolution image](./pages/hires_trasquera1.md)
+[Click here for high resolution image](./pages/hires_trasquera1.md)
 
 
 ### Trasquera 2 (Morning View), 2022
@@ -184,7 +184,7 @@ This work captures the formidable beauty of the alpine environment.
 </div>
 </div>
 
-[high resolution image](./pages/hires_trasquera2.md)
+[Click here for high resolution image](./pages/hires_trasquera2.md)
 
 
 ### Trasquera 3 (The Great Outdoors), 2023
@@ -215,7 +215,7 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 </div>
 </div>
 
-[high resolution image](./pages/hires_trasquera3.md)
+[Click here for high resolution image](./pages/hires_trasquera3.md)
 
 
 ### Trasquera 4 (Summer Porch View), 2023
@@ -245,7 +245,7 @@ The composition invites viewers to enjoy a moment of calm reflection.
 </div>
 
 
-[high resolution image](./pages/hires_trasquera4.md)
+[Click here for high resolution image](./pages/hires_trasquera4.md)
 
 
 ### Trasquera 5 (Bugliaga di Trasquera), 2023
@@ -276,7 +276,7 @@ This work reflects the peaceful simplicity of rural life.
 </div>
 </div>
 
-[high resolution image](./pages/hires_trasquera5.md)
+[Click here for high resolution image](./pages/hires_trasquera5.md)
 
 
 ### Trasquera 6 (Misty Day), 2024
@@ -307,7 +307,7 @@ This painting evokes a dreamlike quality, reflecting the transient nature of the
 </div>
 </div>
 
-[high resolution image](./pages/hires_trasquera6.md)
+[Click here for high resolution image](./pages/hires_trasquera6.md)
 
 
 ### Trasquera 7 (Cloudy Day), 2022
@@ -339,7 +339,7 @@ This painting captures the powerful presence of nature and its ever-changing moo
 </div>
 
 
-[high resolution image](./pages/hires_trasquera7.md)
+[Click here for high resolution image](./pages/hires_trasquera7.md)
 
 
 ### Trasquera 8 (Winter Day), 2023
@@ -369,7 +369,7 @@ The painting captures the stillness and calm of a wintry day.
 </div>
 </div>
 
-[high resolution image](./pages/hires_trasquera8.md)
+[Click here for high resolution image](./pages/hires_trasquera8.md)
 
 
 ### Trasquera 9 (Winter Walk), 2022
@@ -396,7 +396,7 @@ The composition invites contemplation, capturing the quiet beauty of a winter's 
 </div>
 </div>
 
-[high resolution image](./pages/hires_trasquera9.md)
+[Click here for high resolution image](./pages/hires_trasquera9.md)
 
 
 ### Trasquera 10 (Mistakes Were Made), 2022
@@ -424,7 +424,7 @@ The text reads: "turns out it was not that easy!"
 </div>
 
 
-[high resolution image](./pages/hires_trasquera10.md)
+[Click here for high resolution image](./pages/hires_trasquera10.md)
 
 ## Our Gracious Hosts
 
