@@ -76,6 +76,33 @@
 
 **Sigrid Nassuphis** (b. 1940)
 
+## Intorduction
+
+My father, Sigrid's beloved husband, passed away in March 2022. 
+
+
+I kept her company for most of that year. In September 2022 we went for an 
+extended trip to Bugliaga di Trasquera. It is a magical place, kept alive and 
+thriving in no small part due to the efforts of my wonderful friends, 
+Antonio and Soo. 
+
+
+Bugliaga di Trasquera is ideal for someone who wants a kind of reset, and I was 
+convinced that it would do Sigrid a lot of good. We had a wonderful time. 
+
+
+After we returned to Athens, we though that a painting inspired by our time 
+in Bugliaga would be the most appropriate "thank you" gift to our gracious 
+hosts. This was the initial plan, but it did not survive Sigrid's enthusiasm 
+for the place: The one "gift" painting turned into a series of 12, 
+made over the next 2 years.
+
+
+These paintings be seen in this catalogue.
+
+
+
+
 
 ## Biograpy 
 
@@ -408,7 +435,7 @@ The text reads: "turns out it was not that easy!"
 
 [high resolution image](./pages/hires_trasquera10.md)
 
-## Photo Page 1
+## Our Gracious Hosts
 
 <div class="my-div">
 <div class="image-with-legend">
@@ -427,7 +454,7 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 </div>
 
 
-## Photos Page 2
+## Comments
 
 <div class="my-div">
 
