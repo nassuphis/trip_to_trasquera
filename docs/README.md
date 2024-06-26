@@ -618,7 +618,7 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 
 <hr>
-## Niko and Taki
+## Niko 
 
 <div class="my-div">
 
@@ -634,17 +634,11 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 <div class="legend"  style="max-width: 50%;">
 Απο πολυ μικρος θυμαμαι την μητερα μου να μου λεει ιστοριες για τους αγαπημενους της εξπρεσιονιστες ζωγραφους, να σκαλιζει το κασσελακι με τα πινελα και τις μπογιες. Θυμαμαι τις αγιογραφιες, τον πηλο, της εκδρομες στο βουνο. Τωρα που εχει αναγκη, σε αυτα ακουμπησε.
 </div>
-<div class="legend"  style="max-width: 50%;">
-Ever since I can remember, my mother loved the outdoors, trees, mountains, rivers. She marvels at nature. Going for week long walks around islands or climbing mountains with her friends sleeping in tents or in the front yard of small countryside churches. Always bring back plants, shells, stones and impressions she incorporates in her creative work. Whether in her wild plant garden (from her trips), a macrame curtain with pottery beads and leafs (from pottery experimentation) or her numerous, drawing and above all painting. In that sense the current circle of works is very fitting.
-</div>
 </div>
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 </div>
-
-
-[Collage 2](./pages/collage_trasquera2.md)
 
 
 <hr>
@@ -674,7 +668,28 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 </div>
 
 
-[Collage 3](./pages/collage_trasquera1.md)
+<hr>
+## Taki
+
+<div class="my-div">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="assets/images_trasquera/collage_trasquera2.jpg" alt="Image 1">
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend"  style="max-width: 50%;">
+Ever since I can remember, my mother loved the outdoors, trees, mountains, rivers. She marvels at nature. Going for week long walks around islands or climbing mountains with her friends sleeping in tents or in the front yard of small countryside churches. Always bring back plants, shells, stones and impressions she incorporates in her creative work. Whether in her wild plant garden (from her trips), a macrame curtain with pottery beads and leafs (from pottery experimentation) or her numerous, drawing and above all painting. In that sense the current circle of works is very fitting.
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
 
 
 <hr>
