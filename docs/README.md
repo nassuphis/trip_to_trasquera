@@ -89,15 +89,16 @@
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 <div class="image-with-legend">
+<img src="./assets/images_introduction/intro3.jpeg" alt="Image 1">
 </div>
 
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 
-<div class="legend-container" style="width: 40%;">
+<div class="legend-container" style="width: 50%;">
 
-<div class="legend" style="max-width: 90%;">
+<div class="legend" style="max-width: 80%;">
 In March 2022, my father, Sigrid's beloved husband, passed away.
 I spent most of that year keeping her company. In September, we embarked on an 
 extended trip to Bugliaga di Trasquera—a magical place kept alive and thriving 
@@ -111,7 +112,7 @@ the place transformed it into a series of twelve, created over the next two year
 This catalogue presents these paintings.
 </div>
 
-<div class="legend" style="max-width: 90%;">
+<div class="legend" style="max-width: 80%;">
 Τον Μάρτιο του 2022, ο πατέρας μου, ο αγαπημένος σύζυγος της Σιγκρίντ, απεβίωσε.Πέρασα το μεγαλύτερο μέρος εκείνης της χρονιάς κρατώντας της συντροφιά. Τον Σεπτέμβριο, ξεκινήσαμε ένα εκτεταμένο ταξίδι στο Μπουλιάγκα ντι Τρασκουέρα—ένα μαγευτικό μέρος που διατηρείται ζωντανό και ανθίζει χάρη στους υπέροχους φίλους μου, τον Αντόνιο και τη Σου.Το Μπουλιάγκα ντι Τρασκουέρα είναι ιδανικό για κάποιον που αναζητά ένα είδος επαναφοράς, και ήμουν πεπεισμένος ότι θα έκανε πολύ καλό στη Σιγκρίντ. Περάσαμε υπέροχα.Μετά την επιστροφή στην Αθήνα, αποφασίσαμε ότι ένας πίνακας εμπνευσμένος από τον χρόνο μας στο Μπουλιάγκα θα ήταν το πιο κατάλληλο ευχαριστηριο δώρο  για τους ευγενικούς μας οικοδεσπότες. Αρχικά, αυτό το σχέδιο περιλάμβανε μόνο έναν πίνακα, αλλά ο ενθουσιασμός της Σιγκρίντ το μετέτρεψε σε μια σειρά από δώδεκα, δημιουργημένα κατά τη διάρκεια των επόμενων δύο χρόνων.Αυτός ο κατάλογος παρουσιάζει αυτούς τους πίνακες.
 </div>
 
