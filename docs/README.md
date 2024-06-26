@@ -160,11 +160,60 @@ she ascended multiple times. These adventures were a testament to her adventurou
 
 <hr>
 
-## Text from Marlena
+## Text from Marlena Politopoulou (Μαρλενα Πολιτοπουλου)
 
-[Marlena's Text, Greek Language](https://docs.google.com/document/d/1qeXJKvcOj88YH7ezKxagYdAPkgryzIpTQbXCgkdZ4So/edit)
+<div class="my-div">
 
-[Marlena's Text, Translated into English by Spilios](https://docs.google.com/document/d/1fgzEbrWuRIIJ8L2_6D2mqDEFGnuJbPdGNLz7vtwNp1Q/edit)
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend" style="max-width: 50%;">Απουσια</div>
+<div class="legend" style="max-width: 50%;">
+Η ζωγραφική πράξη κινείται στην επιφάνεια και οδηγεί με χάρη, δύναμη και  πάθος στο βάθος των αισθημάτων. Κρύβει και αποκαλύπτει συγχρόνως. Μετατρέπεται σε ένα ιδανικό όργανο έκφρασης, ένα πινέλο αυτοβοήθειας και προσωπικής σωτηρίας όταν η ζωή δείξει το σκληρό της πρόσωπο. Θεωρείται ως πράξη άκρως ευεργετική για την πάσχουσα ψυχή όταν τα λόγια χάνουν το νόημα τους. Η κίνηση του πινέλου, συνέχεια του χεριού, του μυαλού και της καρδιάς μπορεί να εκτονώσει το βάρος που φέρει ο καλλιτέχνης και να δημιουργήσει ένα δικό του κόσμο που θέλει να τον μοιραστεί με τους άλλους.
+
+Τα έργα της Ζίγκριντ Νασούφη, λάδι σε μουσαμά, είναι δημιουργίες που ξεκίνησαν μετά το θάνατο του άντρα της. Στο πένθος η φράση που επαναλαμβάνεται από συγγενείς και φίλους, είναι “δεν έχω λόγια.” Η Ζίγκριντ άφησε τα λόγια στην άκρη- οι λέξεις 
+μπήγονται σαν καρφιά- και δημιούργησε μια σειρά από τοπία με βοηθό τη φωτογραφία και οδηγό τη μνήμη.  Ζωγράφισε την απουσία. Η ομορφιά υπάρχει, η αρμονία γαληνεύει, η απουσία ανθρώπων σημαίνει. Σκιές κα φως, γαλήνη και απειλή.
+
+Η φύση έχει προοπτική όταν οι άνθρωποι φεύγουν. Είναι παρηγορητική στο μεγαλείο και την ομορφιά της. ‘Σε γυρεύω  σε τόπους που μοιάζουν αθάνατοι’, σαν να λέει. ‘Να, κοίτα  τα βουνά που πήγα με τους γιους μας όταν έφυγες!’  Τα ψηλά βουνά που αγάπησε, που περπάτησε και περπατάει η Ζίγκριντ και στην όγδοη δεκαετία της ζωής της είναι ο σύνδεσμος της με τη  ζωή. Με οδηγούς τα χρώματα και τα πινέλα ανοίγει ένα  μονοπάτι. Αυτό που οι όμορφοι ξύλινοι φράχτες μπροστά από τους επιβλητικούς ορεινούς όγκους δεν μπορούν να κλείσουν.
+
+
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend" style="max-width: 50%;">Abscense</div>
+<div class="legend" style="max-width: 50%;">
+The act of painting is moving on the surface and is driving with grace, force and
+passion to the depth of emotions. It hides and reveals simultaneously. It transforms
+into an ideal means of expression, a brush of self-help and auto-salvation once life
+has revealed its ugly face. A very beneficial act of the suffering soul is considered
+to be, when the words lose their meaning. The movement of the brush, an
+extension of the hand, the mind and the heart, could unwind the weight the artist
+carries and it could create its own world that the artist would like to share with the
+Others.
+
+The works of Sigrid Nassuphis, oil on canvas, are creations that started after
+the death of her husband. In mourning, relatives and friends repeat the sentence “I
+have no words”. Sigrid left words aside – words pierce like nails – and created a series 
+of landscapes, with photography as a helper and memory as a guide. She painted the absence. 
+The beauty is existing, the harmony is calming, the absence of people is meaning. 
+Shadows and light, calmness and threat. Nature has a perspective when people are gone. 
+It is consoling in its greatness and beauty. As if she says: “I search for you in places that look 
+immortal. Here, look at the mountains; once you left, I went there with our sons”.
+
+The high mountains she loved, that Sigrid walked and is walking, in her eighth
+decade of life, are the link with her life. With the colours and paintbrushes as
+guides, she carves a path. What the beautiful wooden fences, in front of the
+imposing mountain masses, cannot close.
+
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
 
 <hr>
 ## Works 
@@ -608,8 +657,14 @@ Ever since I can remember, my mother loved the outdoors, trees, mountains, river
 <img src="assets/images_trasquera/collage_trasquera1.jpg" alt="Image 1">
 </div>
 
-<div class="legend-container">
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
 <div class="legend"  style="max-width: 50%;">
+My mother has always had a deep love for nature, finding peace and inspiration during long hikes through the country. She would often pause on her walks to frame a mountain top, a serene landscape, or a solitary tree with her fingers, capturing the scene as if it were a piece of art. Her passion for both the natural world and artistic expression has been a guiding force in her life, bringing her joy and serenity.
+</div>
+<div class="legend"  style="max-width: 50%;">
+Η μητέρα μου πάντα είχε βαθιά αγάπη για τη φύση, βρίσκοντας γαλήνη και έμπνευση κατά τη διάρκεια μακρών πεζοποριών. Συχνά σταματούσε στους περιπάτους της για να πλαισιώσει με τα δάχτυλά της μια κορυφή βουνού, ένα ήρεμο τοπίο ή ένα μοναχικό δέντρο, αιχμαλωτίζοντας τη σκηνή σαν να ήταν έργο τέχνης. Το πάθος της για τον φυσικό κόσμο και την καλλιτεχνική έκφραση έχει υπάρξει καθοδηγητική δύναμη στη ζωή της, φέρνοντάς της χαρά και γαλήνη.
 </div>
 </div>
 
