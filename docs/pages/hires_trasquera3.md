@@ -23,17 +23,7 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 
 <hr>
 
-<div id="openseadragon3" style="width: 100%; height: 600px;"></div>
-<script>
-    var viewer = OpenSeadragon({
-        id: "openseadragon3",
-        prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
-        tileSources: {
-            type: 'image',
-            url: 'https://sigrid-paintings.s3.amazonaws.com/images/hires_trasquera3.jpg',
-        }
-    });
-</script>
+<img src="../assets/images/hires_trasquera3.jpg" aspect-ratio="185/300" width="100%" />
 
 
 
