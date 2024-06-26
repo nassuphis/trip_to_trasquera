@@ -617,7 +617,7 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 
 <hr>
-## Memories
+## Niko and Taki
 
 <div class="my-div">
 
@@ -647,7 +647,7 @@ Ever since I can remember, my mother loved the outdoors, trees, mountains, river
 
 
 <hr>
-## Photos Page 3
+## Alex
 
 <div class="my-div">
 
