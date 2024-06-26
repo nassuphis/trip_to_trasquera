@@ -1,3 +1,10 @@
+---
+title: "hires3"
+output: html_document
+---
+
+<script src="https://openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
+
 ## Trasquera 3 (The Great Outdoors), 2023
 
 oil on canvas, 185 x 300 cm
@@ -22,6 +29,21 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 <hr>
 
 <img src="../assets/images/hires_trasquera3.jpg" aspect-ratio="185/300" width="100%" />
+
+<hr>
+
+<div id="openseadragon2" style="width: 800px; height: 600px;"></div>
+<script>
+    var viewer = OpenSeadragon({
+        id: "openseadragon2",
+        prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
+        tileSources: {
+            type: 'image',
+            url: 'https://sigrid-paintings.s3.amazonaws.com/images/hires_trasquera3.jpg',
+        }
+    });
+</script>
+
 
 
 

@@ -1,4 +1,6 @@
 
+<script src="https://openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
+
 <style>
 
 .my-div {
@@ -328,6 +330,18 @@ The painting captures the stillness and calm of a wintry day.
 
 [Click here for high resolution image](./pages/hires_trasquera8.md)
 
+<div id="openseadragon8" style="width: 100%; height: 600px;"></div>
+<script>
+    var viewer = OpenSeadragon({
+        id: "openseadragon8",
+        prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
+        tileSources: {
+            type: 'image',
+            url: 'https://sigrid-paintings.s3.amazonaws.com/images/hires_trasquera8.jpg',
+        }
+    });
+</script>
+
 <hr>
 ### Trasquera 3 (The Great Outdoors), 2023
 
@@ -365,6 +379,18 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 </div>
 
 [Click here for high resolution image](./pages/hires_trasquera3.md)
+
+<div id="openseadragon3" style="width: 100%; height: 600px;"></div>
+<script>
+    var viewer = OpenSeadragon({
+        id: "openseadragon3",
+        prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
+        tileSources: {
+            type: 'image',
+            url: 'https://sigrid-paintings.s3.amazonaws.com/images/hires_trasquera3.jpg',
+        }
+    });
+</script>
 
 
 <hr>
