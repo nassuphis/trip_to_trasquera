@@ -32,10 +32,10 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 
 <hr>
 
-<div id="openseadragon2" style="width: 800px; height: 600px;"></div>
+<div id="openseadragon3" style="width: 100%; height: 600px;"></div>
 <script>
     var viewer = OpenSeadragon({
-        id: "openseadragon2",
+        id: "openseadragon3",
         prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
         tileSources: {
             type: 'image',

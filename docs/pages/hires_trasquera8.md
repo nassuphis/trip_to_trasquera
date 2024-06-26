@@ -21,6 +21,18 @@ The painting captures the stillness and calm of a wintry day.
 
 <img src="../assets/images/hires_trasquera8.jpg" aspect-ratio="9/12" width="100%" />
 
+<hr>
 
+<div id="openseadragon8" style="width: 100%; height: 600px;"></div>
+<script>
+    var viewer = OpenSeadragon({
+        id: "openseadragon8",
+        prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
+        tileSources: {
+            type: 'image',
+            url: 'https://sigrid-paintings.s3.amazonaws.com/images/hires_trasquera8.jpg',
+        }
+    });
+</script>
 
  
