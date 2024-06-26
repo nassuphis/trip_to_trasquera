@@ -168,43 +168,6 @@ she ascended multiple times. These adventures were a testament to her adventurou
 <hr>
 ## Works 
 
-### Trasquera 1 (Afternoon Walk), 2023
-
-
-<div class="my-div">
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="image-with-legend">
-<img src="./assets/images/trasquera1.jpg" alt="Image 1">
-<div class="legend-container">
-<div class="legend" style="max-width: 100%;">Trasquera 1 (Afternoon Walk), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="legend-container" style="width: 50%;" >
-<div class="legend" style="max-width: 50%;">
-A picturesque mountain scene in spring. A path winds through a verdant meadow, leading towards a forest and snow-capped mountains in the distance. The blue sky and vibrant vegetation create a beautiful contrast with the snowy peaks.
-A winding path through a verdant valley leads towards a snow-capped mountain in this vibrant painting. 
-The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
-The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
-</div>
-<div class="legend" style="max-width: 50%;">
-Ένα γραφικό ορεινό τοπίο την άνοιξη. Ένα μονοπάτι διασχίζει ένα καταπράσινο λιβάδι, οδηγώντας προς ένα δάσος και χιονισμένα βουνά στο βάθος. Ο γαλάζιος ουρανός και η ζωντανή βλάστηση δημιουργούν μια όμορφη αντίθεση με τις χιονισμένες κορυφές.
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-</div>
-
-[Click here for high resolution image](./pages/hires_trasquera1.md)
-
-
-<hr>
 ### Trasquera 2 (Morning View), 2022
 
 <div class="my-div">
@@ -237,157 +200,6 @@ This work captures the formidable beauty of the alpine environment.
 </div>
 
 [Click here for high resolution image](./pages/hires_trasquera2.md)
-
-<hr>
-### Trasquera 3 (The Great Outdoors), 2023
-
-<div class="my-div">
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="image-with-legend">
-<img src="./assets/images/trasquera3.jpg" alt="Image 1">
-<div class="legend-container">
-<div class="legend" style="max-width: 100%;">Trasquera 3 (The Great Outdoors), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 185 x 300 cm</div>
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="legend-container" style="width: 50%;">
-<div class="legend" style="max-width: 50%;">
-In this painting, the artist depicts the panoramic beauty of Bugliaga di Trasquera. 
-The towering pines in the foreground contrast with the distant, snow-capped peaks. 
-The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
-This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
-</div>
-<div class="legend" style="max-width: 50%;">
-Σε αυτόν τον πίνακα, ο καλλιτέχνης απεικονίζει την πανοραμική ομορφιά της  Bugliaga di Trasquera.
-Τα ψηλά πεύκα στο προσκήνιο έρχονται σε αντίθεση με τις μακρινές, χιονισμένες κορυφές.
-Η προσεκτική λεπτομέρεια των βραχώδων βουνών και των πλούσιων αειθαλών δέντρων αναδεικνύει το μεγαλείο του αλπικού τοπίου.
-Αυτό το έργο αποτυπώνει τη γαλήνια μεγαλοπρέπεια της φύσης, προσκαλώντας τους θεατές να εκτιμήσουν την ήρεμη ομορφιά της.
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-</div>
-
-[Click here for high resolution image](./pages/hires_trasquera3.md)
-
-<hr>
-### Trasquera 4 (Summer Porch View), 2023
-
-<div class="my-div">
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="image-with-legend">
-<img src="./assets/images/trasquera4.jpg" alt="Image 1">
-<div class="legend-container">
-<div class="legend" style="max-width: 100%;">Trasquera 4 (Summer Porch View), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="legend-container" style="width: 50%;">
-<div class="legend" style="max-width: 50%;">
-This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in clouds. 
-The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
-The composition invites viewers to enjoy a moment of calm reflection.
-</div>
-<div class="legend" style="max-width: 50%;">
-Αυτός ο πίνακας παρουσιάζει μια αγροτική βεράντα με θέα ένα πυκνό δάσος και μακρινά βουνά καλυμμένα με σύννεφα.
-Το παιχνίδι του φωτός και της σκιάς, μαζί με την πλούσια βλάστηση που αναρριχάται στους ξύλινους στύλους, δημιουργεί μια ήρεμη σκηνή.
-Η σύνθεση προσκαλεί τους θεατές να απολαύσουν μια στιγμή ήρεμης σκέψης.
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-</div>
-
-
-[Click here for high resolution image](./pages/hires_trasquera4.md)
-
-<hr>
-### Trasquera 5 (Bugliaga di Trasquera), 2023
-
-<div class="my-div">
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="image-with-legend">
-<img src="./assets/images/trasquera5.jpg" alt="Image 1">
-<div class="legend-container">
-<div class="legend" style="max-width: 100%;">Trasquera 5 (Bugliaga di Trasquera), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm</div>
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="legend-container" style="width: 50%;">
-<div class="legend" style="max-width: 50%;">
-A quaint stone cottage is nestled amidst lush greenery in this vibrant painting. 
-The bright colors of the grass and trees are complemented by a clear blue sky. 
-The detailed fence in the foreground guides the viewer’s eye towards the serene home. 
-This work reflects the peaceful simplicity of rural life.
-</div>
-<div class="legend" style="max-width: 50%;">
-Ένα γραφικό πέτρινο εξοχικό βρίσκεται φωλιασμένο μέσα στην πλούσια βλάστηση σε αυτόν τον ζωντανό πίνακα.
-Τα έντονα χρώματα του γρασιδιού και των δέντρων συμπληρώνονται από έναν καθαρό γαλανό ουρανό.
-Ο λεπτομερής φράχτης στο προσκήνιο καθοδηγεί το βλέμμα του θεατή προς το γαλήνιο σπίτι.
-Αυτό το έργο αντικατοπτρίζει την ειρηνική απλότητα της αγροτικής ζωής.
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-</div>
-
-[Click here for high resolution image](./pages/hires_trasquera5.md)
-
-<hr>
-### Trasquera 6 (Misty Day), 2024
-
-<div class="my-div">
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="image-with-legend">
-<img src="./assets/images/trasquera6.jpg" alt="Image 1">
-<div class="legend-container">
-<div class="legend" style="max-width: 100%;">Trasquera 6 (Misty Day), 2024</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="legend-container" style="width: 50%;">
-<div class="legend" style="max-width: 50%;">
-In this misty landscape, the artist captures the ethereal beauty of foggy surroundings. 
-Indistinct shapes of trees and bushes blend into the soft, muted tones of the background. 
-The simple fence provides structure to the scene. 
-This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
-</div>
-<div class="legend" style="max-width: 50%;">
-Σε αυτό το ομιχλώδες τοπίο, ο καλλιτέχνης αποτυπώνει την αιθέρια ομορφιά του περιβάλλοντος.
-Οι ασαφείς μορφές δέντρων και θάμνων συγχωνεύονται με τους απαλούς, σιωπηλούς τόνους του φόντου.
-Ο απλός φράχτης προσδίδει δομή στη σκηνή.
-Αυτός ο πίνακας αποπνέει μια ονειρική ποιότητα, αντικατοπτρίζοντας τη φευγαλέα φύση της ομίχλης.
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-</div>
-
-[Click here for high resolution image](./pages/hires_trasquera6.md)
 
 <hr>
 ### Trasquera 7 (Cloudy Day), 2022
@@ -465,6 +277,195 @@ The painting captures the stillness and calm of a wintry day.
 </div>
 
 [Click here for high resolution image](./pages/hires_trasquera8.md)
+
+<hr>
+### Trasquera 3 (The Great Outdoors), 2023
+
+<div class="my-div">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="./assets/images/trasquera3.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 3 (The Great Outdoors), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 185 x 300 cm</div>
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend" style="max-width: 50%;">
+In this painting, the artist depicts the panoramic beauty of Bugliaga di Trasquera. 
+The towering pines in the foreground contrast with the distant, snow-capped peaks. 
+The careful detailing of the rocky mountains and lush evergreens showcases the grandeur of the alpine landscape. 
+This work captures the tranquil majesty of nature, inviting viewers to appreciate its serene beauty.
+</div>
+<div class="legend" style="max-width: 50%;">
+Σε αυτόν τον πίνακα, ο καλλιτέχνης απεικονίζει την πανοραμική ομορφιά της  Bugliaga di Trasquera.
+Τα ψηλά πεύκα στο προσκήνιο έρχονται σε αντίθεση με τις μακρινές, χιονισμένες κορυφές.
+Η προσεκτική λεπτομέρεια των βραχώδων βουνών και των πλούσιων αειθαλών δέντρων αναδεικνύει το μεγαλείο του αλπικού τοπίου.
+Αυτό το έργο αποτυπώνει τη γαλήνια μεγαλοπρέπεια της φύσης, προσκαλώντας τους θεατές να εκτιμήσουν την ήρεμη ομορφιά της.
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
+
+[Click here for high resolution image](./pages/hires_trasquera3.md)
+
+
+<hr>
+### Trasquera 4 (Summer Porch View), 2023
+
+<div class="my-div">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="./assets/images/trasquera4.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 4 (Summer Porch View), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend" style="max-width: 50%;">
+This painting presents a rustic porch overlooking a dense forest and distant mountains shrouded in clouds. 
+The interplay of light and shadow, along with the lush foliage climbing the wooden pillars, creates a tranquil scene. 
+The composition invites viewers to enjoy a moment of calm reflection.
+</div>
+<div class="legend" style="max-width: 50%;">
+Αυτός ο πίνακας παρουσιάζει μια αγροτική βεράντα με θέα ένα πυκνό δάσος και μακρινά βουνά καλυμμένα με σύννεφα.
+Το παιχνίδι του φωτός και της σκιάς, μαζί με την πλούσια βλάστηση που αναρριχάται στους ξύλινους στύλους, δημιουργεί μια ήρεμη σκηνή.
+Η σύνθεση προσκαλεί τους θεατές να απολαύσουν μια στιγμή ήρεμης σκέψης.
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
+
+
+[Click here for high resolution image](./pages/hires_trasquera4.md)
+
+<hr>
+### Trasquera 5 (Bugliaga di Trasquera), 2023
+
+<div class="my-div">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="./assets/images/trasquera5.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 5 (Bugliaga di Trasquera), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm</div>
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend" style="max-width: 50%;">
+A quaint stone cottage is nestled amidst lush greenery in this vibrant painting. 
+The bright colors of the grass and trees are complemented by a clear blue sky. 
+The detailed fence in the foreground guides the viewer’s eye towards the serene home. 
+This work reflects the peaceful simplicity of rural life.
+</div>
+<div class="legend" style="max-width: 50%;">
+Ένα γραφικό πέτρινο εξοχικό βρίσκεται φωλιασμένο μέσα στην πλούσια βλάστηση σε αυτόν τον ζωντανό πίνακα.
+Τα έντονα χρώματα του γρασιδιού και των δέντρων συμπληρώνονται από έναν καθαρό γαλανό ουρανό.
+Ο λεπτομερής φράχτης στο προσκήνιο καθοδηγεί το βλέμμα του θεατή προς το γαλήνιο σπίτι.
+Αυτό το έργο αντικατοπτρίζει την ειρηνική απλότητα της αγροτικής ζωής.
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
+
+[Click here for high resolution image](./pages/hires_trasquera5.md)
+
+<hr>
+### Trasquera 1 (Afternoon Walk), 2023
+
+
+<div class="my-div">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="./assets/images/trasquera1.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 1 (Afternoon Walk), 2023</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;" >
+<div class="legend" style="max-width: 50%;">
+A picturesque mountain scene in spring. A path winds through a verdant meadow, leading towards a forest and snow-capped mountains in the distance. The blue sky and vibrant vegetation create a beautiful contrast with the snowy peaks.
+A winding path through a verdant valley leads towards a snow-capped mountain in this vibrant painting. 
+The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
+The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
+</div>
+<div class="legend" style="max-width: 50%;">
+Ένα γραφικό ορεινό τοπίο την άνοιξη. Ένα μονοπάτι διασχίζει ένα καταπράσινο λιβάδι, οδηγώντας προς ένα δάσος και χιονισμένα βουνά στο βάθος. Ο γαλάζιος ουρανός και η ζωντανή βλάστηση δημιουργούν μια όμορφη αντίθεση με τις χιονισμένες κορυφές.
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
+
+[Click here for high resolution image](./pages/hires_trasquera1.md)
+
+<hr>
+### Trasquera 6 (Misty Day), 2024
+
+<div class="my-div">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="./assets/images/trasquera6.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 6 (Misty Day), 2024</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend" style="max-width: 50%;">
+In this misty landscape, the artist captures the ethereal beauty of foggy surroundings. 
+Indistinct shapes of trees and bushes blend into the soft, muted tones of the background. 
+The simple fence provides structure to the scene. 
+This painting evokes a dreamlike quality, reflecting the transient nature of the mist.
+</div>
+<div class="legend" style="max-width: 50%;">
+Σε αυτό το ομιχλώδες τοπίο, ο καλλιτέχνης αποτυπώνει την αιθέρια ομορφιά του περιβάλλοντος.
+Οι ασαφείς μορφές δέντρων και θάμνων συγχωνεύονται με τους απαλούς, σιωπηλούς τόνους του φόντου.
+Ο απλός φράχτης προσδίδει δομή στη σκηνή.
+Αυτός ο πίνακας αποπνέει μια ονειρική ποιότητα, αντικατοπτρίζοντας τη φευγαλέα φύση της ομίχλης.
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
+
+[Click here for high resolution image](./pages/hires_trasquera6.md)
+
 
 <hr>
 ### Trasquera 9 (Winter Walk), 2022
