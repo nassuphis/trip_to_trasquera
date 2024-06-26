@@ -33,9 +33,9 @@ output: html_document
 ## Tests
 
 <div class="my-div">
-<img src="assets/images_trasquera/collage_trasquera3.jpg" alt="Image 1">
+<img src="../assets/images_trasquera/collage_trasquera3.jpg" alt="Image 1">
 <div class="image-with-legend">
-<img src="assets/images/anto_soo.jpg" alt="Image 2">
+<img src="../assets/images/anto_soo.jpg" alt="Image 2">
 <div class="legend">
 Bugliaga Dentro is a tiny mountain village in the Italian Alps on the Swiss border. 
 Once abandoned and now beautifully reviving with a few families (5 of us), trying to safeguard its original charm. 
