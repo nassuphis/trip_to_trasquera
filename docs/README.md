@@ -251,7 +251,9 @@ This work captures the formidable beauty of the alpine environment.
 
 </div>
 
-[Click here for high resolution image](./pages/hires_trasquera2.md)
+[Click here for high resolution image download](./pages/hires_trasquera2.md)
+
+[Click here for zoomable image](./pages/zoom2.md)
 
 <hr>
 ### Trasquera 7 (Cloudy Day), 2022
@@ -366,7 +368,9 @@ This work captures the tranquil majesty of nature, inviting viewers to appreciat
 
 </div>
 
-[Click here for high resolution image](./pages/hires_trasquera3.md)
+[Click here for high resolution image download](./pages/hires_trasquera3.md)
+
+[Click here for zoomable image](./pages/zoom3.md)
 
 <hr>
 ### Trasquera 4 (Summer Porch View), 2023
@@ -478,6 +482,8 @@ The path symbolizes a journey through the natural landscape, inviting viewers to
 </div>
 
 [Click here for high resolution image](./pages/hires_trasquera1.md)
+
+[Click here for zoomable image](./pages/zoom1.md)
 
 <hr>
 ### Trasquera 6 (Misty Day), 2024
