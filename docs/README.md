@@ -753,7 +753,7 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 
 <div style="width: 100%; display: flex; flex-direction: row;">
 <img src="./assets/collage5/view1.jpg" alt="Image 7" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut3.jpg" alt="Image 8" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/food.jpg" alt="Image 8" style="width: 32%; aspect-ratio: 1;">
 <img src="./assets/collage5/meadow2.jpg" alt="Image 9" style="width: 32%; aspect-ratio: 1;">
 </div>
 
