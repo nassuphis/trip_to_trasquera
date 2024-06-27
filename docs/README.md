@@ -595,16 +595,34 @@ The text reads: "turns out it was not that easy!"
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="image-with-legend">
-<img src="assets/images_trasquera/collage_trasquera3.jpg" alt="Image 1">
+<div style="width: 48%; display: flex; flex-direction: column; ">
+
+<div style="width: 100%; display: flex; flex-direction: row; ">
+<img src="./assets/collage5/hut.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/bull.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/cliff.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="./assets/collage5/climbing.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut6.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/hut7.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut8.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/sunset.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
 </div>
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="image-with-legend" style="width: 50%;">
-<img src="assets/images/anto_soo.jpg" alt="Image 2"  style="max-width: 50%;">
-<div class="legend-container">
-<div class="legend"  style="max-width: 50%;">
+<div class="image-with-legend" style="width: 48%;">
+<img src="./assets/images/anto_soo.jpg" alt="Image 2">
+<div class="legend-container" style="width: 80%;">
+<div class="legend" style="width: 80%;">
 Bugliaga Dentro is a tiny mountain village in the Italian Alps on the Swiss border. 
 Once abandoned and now beautifully reviving with a few families (5 of us), trying to safeguard its original charm. 
 We warmly welcome all our friends who long for silence and peace deep in the mountain.
@@ -616,29 +634,51 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 </div>
 
-
 <hr>
 ## Niko 
+
 
 <div class="my-div">
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="image-with-legend">
-<img src="assets/images_trasquera/collage_trasquera2.jpg" alt="Image 1">
+<div style="width: 48%; display: flex; flex-direction: column; ">
+
+<div style="width: 100%; display: flex; flex-direction: row; ">
+<img src="./assets/collage5/hut.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/bull.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/cliff.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="./assets/collage5/climbing.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut6.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/hut7.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut8.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/sunset.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
 </div>
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="legend-container" style="width: 50%;">
-<div class="legend"  style="max-width: 50%;">
+<div class="image-with-legend" style="width: 48%;">
+<div class="legend-container" style="width: 80%;">
+<div class="legend" style="width: 80%;">
 Απο πολυ μικρος θυμαμαι την μητερα μου να μου λεει ιστοριες για τους αγαπημενους της εξπρεσιονιστες ζωγραφους, να σκαλιζει το κασσελακι με τα πινελα και τις μπογιες. Θυμαμαι τις αγιογραφιες, τον πηλο, της εκδρομες στο βουνο. Τωρα που εχει αναγκη, σε αυτα ακουμπησε.
 </div>
 </div>
+</div>
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 </div>
+
+
 
 
 <hr>
@@ -648,13 +688,32 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="image-with-legend">
-<img src="assets/images_trasquera/collage_trasquera1.jpg" alt="Image 1">
+<div style="width: 48%; display: flex; flex-direction: column; ">
+
+<div style="width: 100%; display: flex; flex-direction: row; ">
+<img src="./assets/collage5/hut.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/bull.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/cliff.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="./assets/collage5/climbing.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut6.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/hut7.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut8.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/sunset.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
 </div>
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="legend-container" style="width: 50%;">
+<div class="image-with-legend" style="width: 48%;">
+<div class="legend-container" style="width: 80%;">
 <div class="legend"  style="max-width: 50%;">
 My mother has always had a deep love for nature, finding peace and inspiration during long hikes through the country. She would often pause on her walks to frame a mountain top, a serene landscape, or a solitary tree with her fingers, capturing the scene as if it were a piece of art. Her passion for both the natural world and artistic expression has been a guiding force in her life, bringing her joy and serenity.
 </div>
@@ -662,10 +721,13 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 Η μητέρα μου πάντα είχε βαθιά αγάπη για τη φύση, βρίσκοντας γαλήνη και έμπνευση κατά τη διάρκεια μακρών πεζοποριών. Συχνά σταματούσε στους περιπάτους της για να πλαισιώσει με τα δάχτυλά της μια κορυφή βουνού, ένα ήρεμο τοπίο ή ένα μοναχικό δέντρο, αιχμαλωτίζοντας τη σκηνή σαν να ήταν έργο τέχνης. Το πάθος της για τον φυσικό κόσμο και την καλλιτεχνική έκφραση έχει υπάρξει καθοδηγητική δύναμη στη ζωή της, φέρνοντάς της χαρά και γαλήνη.
 </div>
 </div>
+</div>
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 </div>
+
+
 
 
 <hr>
@@ -675,15 +737,35 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="image-with-legend">
-<img src="assets/images_trasquera/collage_trasquera2.jpg" alt="Image 1">
+<div style="width: 48%; display: flex; flex-direction: column; ">
+
+<div style="width: 100%; display: flex; flex-direction: row; ">
+<img src="./assets/collage5/hut.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/bull.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/cliff.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="./assets/collage5/climbing.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut6.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="./assets/collage5/hut7.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut8.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/sunset.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
 </div>
 
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
-<div class="legend-container" style="width: 50%;">
+<div class="image-with-legend" style="width: 48%;">
+<div class="legend-container" style="width: 80%;">
 <div class="legend"  style="max-width: 50%;">
 Ever since I can remember, my mother loved the outdoors, trees, mountains, rivers. She marvels at nature. Going for week long walks around islands or climbing mountains with her friends sleeping in tents or in the front yard of small countryside churches. Always bring back plants, shells, stones and impressions she incorporates in her creative work. Whether in her wild plant garden (from her trips), a macrame curtain with pottery beads and leafs (from pottery experimentation) or her numerous, drawing and above all painting. In that sense the current circle of works is very fitting.
+</div>
 </div>
 </div>
 
