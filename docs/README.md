@@ -292,7 +292,9 @@ This painting captures the powerful presence of nature and its ever-changing moo
 </div>
 
 
-[Click here for high resolution image](./pages/hires_trasquera7.md)
+[Click here for high resolution image download](./pages/hires_trasquera7.md)
+
+[Click here for zoomable image](./pages/zoom7.md)
 
 <hr>
 ### Trasquera 8 (Winter Day), 2023
@@ -330,7 +332,9 @@ The painting captures the stillness and calm of a wintry day.
 
 </div>
 
-[Click here for high resolution image](./pages/hires_trasquera8.md)
+[Click here for high resolution image download](./pages/hires_trasquera8.md)
+
+[Click here for zoomable image](./pages/zoom8.md)
 
 <hr>
 ### Trasquera 3 (The Great Outdoors), 2023
@@ -409,6 +413,8 @@ The composition invites viewers to enjoy a moment of calm reflection.
 
 [Click here for high resolution image](./pages/hires_trasquera4.md)
 
+[Click here for zoomable image](./pages/zoom4.md)
+
 <hr>
 ### Trasquera 5 (Bugliaga di Trasquera), 2023
 
@@ -446,6 +452,8 @@ This work reflects the peaceful simplicity of rural life.
 </div>
 
 [Click here for high resolution image](./pages/hires_trasquera5.md)
+
+[Click here for zoomable image](./pages/zoom5.md)
 
 <hr>
 ### Trasquera 1 (Afternoon Walk), 2023
@@ -521,8 +529,9 @@ This painting evokes a dreamlike quality, reflecting the transient nature of the
 
 </div>
 
-[Click here for high resolution image](./pages/hires_trasquera6.md)
+[Click here for high resolution image download](./pages/hires_trasquera6.md)
 
+[Click here for zoomable image](./pages/zoom6.md)
 
 <hr>
 ### Trasquera 9 (Winter Walk), 2022
@@ -556,7 +565,9 @@ The composition invites contemplation, capturing the quiet beauty of a winter's 
 
 </div>
 
-[Click here for high resolution image](./pages/hires_trasquera9.md)
+[Click here for high resolution image download](./pages/hires_trasquera9.md)
+
+[Click here for zoomable image](./pages/zoom9.md)
 
 <hr>
 ### Trasquera 10 (Mistakes Were Made), 2022
@@ -593,6 +604,8 @@ The text reads: "turns out it was not that easy!"
 
 
 [Click here for high resolution image](./pages/hires_trasquera10.md)
+
+[Click here for zoomable image](./pages/zoom10.md)
 
 <hr>
 ## Our Hosts
