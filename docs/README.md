@@ -162,7 +162,7 @@ she ascended multiple times. These adventures were a testament to her adventurou
 
 <hr>
 
-## Text from Marlena Politopoulou (Μαρλενα Πολιτοπουλου)
+## Marlena Politopoulou
 
 <div class="my-div">
 
@@ -589,7 +589,7 @@ The text reads: "turns out it was not that easy!"
 [Click here for high resolution image](./pages/hires_trasquera10.md)
 
 <hr>
-## Our Gracious Hosts
+## Our Hosts
 
 <div class="my-div">
 
@@ -635,7 +635,7 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 </div>
 
 <hr>
-## Niko 
+## Nikos Nassuphis
 
 
 <div class="my-div">
@@ -682,7 +682,7 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 
 
 <hr>
-## Alex
+## Alex Nassuphis
 
 <div class="my-div">
 
@@ -731,7 +731,7 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 
 
 <hr>
-## Taki
+## Taki Nassuphis
 
 <div class="my-div">
 
