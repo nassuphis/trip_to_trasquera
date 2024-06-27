@@ -76,7 +76,7 @@
 }
 </style>
 
-# Trip to Trasquera
+# Trip to Bugliaga Dentro
 (placeholder title)
 
 **Sigrid Nassuphis** (b. 1940)
