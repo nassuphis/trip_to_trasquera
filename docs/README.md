@@ -645,21 +645,21 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 <div style="width: 48%; display: flex; flex-direction: column; ">
 
 <div style="width: 100%; display: flex; flex-direction: row; ">
-<img src="./assets/collage5/hut.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/bull.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/meadow.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/mountain.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/oven2.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 <div style="width: 100%; display: flex; flex-direction: row;">
-<img src="./assets/collage5/cliff.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
-<img src="./assets/collage5/climbing.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut6.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/snow1.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="./assets/collage5/kitchen.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/sign2.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 <div style="width: 100%; display: flex; flex-direction: row;">
-<img src="./assets/collage5/hut7.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut8.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/sunset.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/mountain2.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/mountain3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/snow4.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 </div>
@@ -691,21 +691,21 @@ We warmly welcome all our friends who long for silence and peace deep in the mou
 <div style="width: 48%; display: flex; flex-direction: column; ">
 
 <div style="width: 100%; display: flex; flex-direction: row; ">
-<img src="./assets/collage5/hut.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/bull.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/dwarves.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut_trq.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut9.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 <div style="width: 100%; display: flex; flex-direction: row;">
-<img src="./assets/collage5/cliff.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
-<img src="./assets/collage5/climbing.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut6.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut10.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="./assets/collage5/huts.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/image1.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 <div style="width: 100%; display: flex; flex-direction: row;">
-<img src="./assets/collage5/hut7.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut8.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/sunset.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/image2.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/interior1.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/sign.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 </div>
@@ -740,21 +740,21 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 <div style="width: 48%; display: flex; flex-direction: column; ">
 
 <div style="width: 100%; display: flex; flex-direction: row; ">
-<img src="./assets/collage5/hut.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/bull.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/snow2.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/snow3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/oven.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 <div style="width: 100%; display: flex; flex-direction: row;">
-<img src="./assets/collage5/cliff.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
-<img src="./assets/collage5/climbing.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut6.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/image1.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="./assets/collage5/interior2.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut5.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 <div style="width: 100%; display: flex; flex-direction: row;">
-<img src="./assets/collage5/hut7.jpg" alt="Image 1" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/hut8.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
-<img src="./assets/collage5/sunset.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/view1.jpg" alt="Image 7" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/hut3.jpg" alt="Image 8" style="width: 32%; aspect-ratio: 1;">
+<img src="./assets/collage5/meadow2.jpg" alt="Image 9" style="width: 32%; aspect-ratio: 1;">
 </div>
 
 </div>
