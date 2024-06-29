@@ -76,7 +76,7 @@
 }
 </style>
 
-# Trip to Bugliaga Dentro
+# Trip to Bugliaga
 (placeholder title)
 
 **Sigrid Nassuphis** (b. 1940)
