@@ -184,7 +184,7 @@ she ascended multiple times. These adventures were a testament to her adventurou
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 <div class="legend-container" style="width: 50%;">
-<div class="legend" style="max-width: 50%;">Abscense</div>
+<div class="legend" style="max-width: 50%;">Absense</div>
 <div class="legend" style="max-width: 50%;">
 The act of painting is moving on the surface and is driving with grace, force and
 passion to the depth of emotions. It hides and reveals simultaneously. It transforms
@@ -782,7 +782,7 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 
 
 <hr>
-## Taki Nassuphis
+## Takis Nassuphis
 
 <div class="my-div">
 
