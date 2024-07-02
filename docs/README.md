@@ -607,6 +607,39 @@ The text reads: "turns out it was not that easy!"
 [Click here for zoomable image](./pages/zoom10.md)
 
 <hr>
+### Trasquera 11 (Woman Standing), 2024
+
+<div class="my-div">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="./assets/images_thankyou/last_painting.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend" style="max-width: 100%;">Trasquera 11 (Woman Standing), 2024</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 87 cm</div>
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+
+<div class="legend-container" style="width: 50%;">
+<div class="legend" style="max-width: 50%;">
+This painting shows a tranquil scene through a window. An elderly woman stands outside, back turned, amidst lush greenery and a bright blue sky. A wooden fence and a chair add to the peaceful, domestic atmosphere. The window frame enhances depth and perspective, creating a serene and realistic view.
+</div>
+<div class="legend" style="max-width: 50%;">
+Τό έργο δείχνει μια ήρεμη σκηνή μέσα από ένα παράθυρο. Μια ηλικιωμένη γυναίκα στέκεται έξω, με την πλάτη γυρισμένη, μέσα σε καταπράσινη βλάστηση και έναν φωτεινό γαλάζιο ουρανό. Ένας ξύλινος φράχτης και μια καρέκλα προσθέτουν στην ειρηνική, οικιακή ατμόσφαιρα. Το πλαίσιο του παραθύρου ενισχύει το βάθος και την προοπτική, δημιουργώντας μια γαλήνια και ρεαλιστική θέα.
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+</div>
+
+
+
+<hr>
 ## Our Hosts
 
 <div class="my-div">
