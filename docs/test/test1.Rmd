@@ -32,9 +32,10 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 |x|x|x|
 |-|-|-|
 |![](../assets/images/george.jpg)|![](../assets/images/george.jpg)|![](../assets/images/george.jpg)|
+|[g1](../assets/images/george.jpg)|[g2](../assets/images/george.jpg)|[g3](../assets/images/george.jpg)|
 
-```{r, echo=FALSE, out.width='100%'}
-knitr::include_graphics("../assets/catalogue/catalogue.pdf")
+```{r, echo=FALSE, out.width='100%', out.height="500px"}
+knitr::include_graphics("../assets/invite/invite.pdf")
 ```
 
 `r 1+1`

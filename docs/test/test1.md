@@ -46,6 +46,11 @@ prevent printing of the R code that generated the plot.
 <td><img src="../assets/images/george.jpg" /></td>
 <td><img src="../assets/images/george.jpg" /></td>
 </tr>
+<tr class="even">
+<td><a href="../assets/images/george.jpg">g1</a></td>
+<td><a href="../assets/images/george.jpg">g2</a></td>
+<td><a href="../assets/images/george.jpg">g3</a></td>
+</tr>
 </tbody>
 </table>
 
