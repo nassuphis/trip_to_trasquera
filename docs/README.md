@@ -637,6 +637,10 @@ This painting shows a tranquil scene through a window. An elderly woman stands o
 
 </div>
 
+[Click here for high resolution image](./pages/hires_trasquera11.md)
+
+[Click here for zoomable image](./pages/zoom11.md)
+
 
 
 <hr>
