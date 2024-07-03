@@ -588,7 +588,7 @@ The composition invites contemplation, capturing the quiet beauty of a winter's 
 <div class="legend-container" style="width: 50%;">
 <div class="legend" style="max-width: 50%;">
 Failure and frustration are part of the process. Some failures are memorable.
-The text reads: "turns out it was not that easy!"
+The text reads: "turns out it was not easy!"
 </div>
 <div class="legend" style="max-width: 50%;">
 Η αποτυχία και η απογοήτευση είναι μέρος της διαδικασίας. Κάποιες αποτυχίες
