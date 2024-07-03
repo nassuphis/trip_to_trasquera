@@ -85,6 +85,42 @@
 
 <hr style="height: 5px; background-color: #000; border: none;">
 
+
+
+## Biography 
+
+<div class="my-div" style="width: 100%">
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+<div class="image-with-legend">
+<img src="./assets/images_mum/mutti_bio3.jpg" alt="Image 1">
+<div class="legend-container">
+<div class="legend">Sigrid Nassuphis</div>
+</div>
+</div>
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+ 
+<div class="legend-container" style="width: 40%;">
+<div class="legend" style="max-width: 90%;">
+Born on November 8, 1940, in the scenic region of Bavaria, Germany, Sigrid Nassuphis developed an early appreciation for beauty and design. She pursued this passion academically at the University of Konstanz, where she studied graphic design and clothing. Her journey took a transformative turn in 1967 when she moved to Greece with her partner, who later became her beloved husband. In Greece, Sigrid initially worked as a graphic designer, bringing her creative flair to various projects. However, as her family grew with the arrival of three children, she chose to devote herself fully to their upbringing. Balancing her roles as a dedicated homemaker and a loving mother, Segrid never let go of her artistic spirit. She immersed herself in pottery and painting, finding joy and fulfillment in creating art that reflected her experiences and surroundings. Sigrid's love for the natural world was equally profound. She explored the breathtaking landscapes of Greece, hiking from the depths of the Vikos Gorge in the north to the heights of Mount Olympus, which
+she ascended multiple times. These adventures were a testament to her adventurous spirit and deep connection to nature.
+</div>
+<div class="legend"></div>
+<div class="legend" style="max-width: 90%;">
+Γεννημένη στις 8 Νοεμβρίου 1940, στην γραφική περιοχή της Βαυαρίας, στη Γερμανία, η Σίγκριντ Νασούφη ανέπτυξε από νωρίς στη ζωή της εκτίμηση για την ομορφιά και τον σχεδιασμό. Καλλιέργησε αυτό το πάθος ακαδημαϊκά στο Πανεπιστήμιο του Konstanz , όπου σπούδασε γραφιστική και ένδυση. Το ταξίδι της ζωής της πήρε μια απρόσμενη τροπή το 1967, όταν μετακόμισε στην Ελλάδα με τον συντροφò της, ο οποίος αργότερα έγινε ο αγαπημένος της σύζυγος. Στην Ελλάδα, η Σίγκριντ αρχικά εργάστηκε ως γραφίστρια, καταθέτοντας το δημιουργικό της ταλέντο σε διάφορα έργα. Ωστόσο, καθώς η οικογένειά της μεγάλωσε, με την άφιξη τριών παιδιών, επέλεξε να αφιερωθεί πλήρως στην ανατροφή τους. Εξισορροπώντας τους ρόλους της αφοσιωμένης νοικοκυράς και της αγαπημένης μητέρας, η Σιγκριντ δεν εγκατέλειψε ποτέ το καλλιτεχνικό της πνεύμα. Ασχολήθηκε με την κεραμική και τη ζωγραφική, βρίσκοντας χαρά και ικανοποίηση στη δημιουργία τέχνης που αντικατόπτριζε τις εμπειρίες και  το περιβάλλον της. Η αγάπη της Σιγκριντ για τον φυσικό κόσμο είναι  εξίσου βαθιά. Εξερεύνησε τα μαγευτικά τοπία της Ελλάδας, περπατώντας από τα βάθη του φαραγγιού του Βίκου μέχρι τις κορυφές του Όλυμπου, τις οποίες ανέβηκε πολλές φορές. Αυτές οι περιπέτειες είναι απόδειξη του περιπετειώδους πνεύματός της και της βαθιάς της σύνδεσης με τη Φύση.
+</div>
+</div>
+
+
+<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
+
+
+</div>
+
+
+<hr>
 ## Introduction
 
 
@@ -126,41 +162,6 @@ This catalogue presents these paintings.
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 </div>
-<hr>
-
-## Biography 
-
-<div class="my-div" style="width: 100%">
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-<div class="image-with-legend">
-<img src="./assets/images_mum/mutti_bio3.jpg" alt="Image 1">
-<div class="legend-container">
-<div class="legend">Sigrid Nassuphis</div>
-</div>
-</div>
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
- 
-<div class="legend-container" style="width: 40%;">
-<div class="legend" style="max-width: 90%;">
-Born on November 8, 1940, in the scenic region of Bavaria, Germany, Sigrid Nassuphis developed an early appreciation for beauty and design. She pursued this passion academically at the University of Konstanz, where she studied graphic design and clothing. Her journey took a transformative turn in 1967 when she moved to Greece with her partner, who later became her beloved husband. In Greece, Sigrid initially worked as a graphic designer, bringing her creative flair to various projects. However, as her family grew with the arrival of three children, she chose to devote herself fully to their upbringing. Balancing her roles as a dedicated homemaker and a loving mother, Segrid never let go of her artistic spirit. She immersed herself in pottery and painting, finding joy and fulfillment in creating art that reflected her experiences and surroundings. Sigrid's love for the natural world was equally profound. She explored the breathtaking landscapes of Greece, hiking from the depths of the Vikos Gorge in the north to the heights of Mount Olympus, which
-she ascended multiple times. These adventures were a testament to her adventurous spirit and deep connection to nature.
-</div>
-<div class="legend"></div>
-<div class="legend" style="max-width: 90%;">
-Γεννημένη στις 8 Νοεμβρίου 1940, στην γραφική περιοχή της Βαυαρίας, στη Γερμανία, η Σίγκριντ Νασούφη ανέπτυξε από νωρίς στη ζωή της εκτίμηση για την ομορφιά και τον σχεδιασμό. Καλλιέργησε αυτό το πάθος ακαδημαϊκά στο Πανεπιστήμιο του Konstanz , όπου σπούδασε γραφιστική και ένδυση. Το ταξίδι της ζωής της πήρε μια απρόσμενη τροπή το 1967, όταν μετακόμισε στην Ελλάδα με τον συντροφò της, ο οποίος αργότερα έγινε ο αγαπημένος της σύζυγος. Στην Ελλάδα, η Σίγκριντ αρχικά εργάστηκε ως γραφίστρια, καταθέτοντας το δημιουργικό της ταλέντο σε διάφορα έργα. Ωστόσο, καθώς η οικογένειά της μεγάλωσε, με την άφιξη τριών παιδιών, επέλεξε να αφιερωθεί πλήρως στην ανατροφή τους. Εξισορροπώντας τους ρόλους της αφοσιωμένης νοικοκυράς και της αγαπημένης μητέρας, η Σιγκριντ δεν εγκατέλειψε ποτέ το καλλιτεχνικό της πνεύμα. Ασχολήθηκε με την κεραμική και τη ζωγραφική, βρίσκοντας χαρά και ικανοποίηση στη δημιουργία τέχνης που αντικατόπτριζε τις εμπειρίες και  το περιβάλλον της. Η αγάπη της Σιγκριντ για τον φυσικό κόσμο είναι  εξίσου βαθιά. Εξερεύνησε τα μαγευτικά τοπία της Ελλάδας, περπατώντας από τα βάθη του φαραγγιού του Βίκου μέχρι τις κορυφές του Όλυμπου, τις οποίες ανέβηκε πολλές φορές. Αυτές οι περιπέτειες είναι απόδειξη του περιπετειώδους πνεύματός της και της βαθιάς της σύνδεσης με τη Φύση.
-</div>
-</div>
-
-
-<div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
-
-
-</div>
-
-
 <hr>
 
 ## Marlena Politopoulou
