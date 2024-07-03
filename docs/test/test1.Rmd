@@ -1,13 +1,13 @@
 ---
 title: "Untitled"
-output: html_document
+output: md_document
 date: "2024-07-03"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-# Set the directory for figure output
-knitr::opts_chunk$set(fig.path = "docs/test/")
+knitr::opts_knit$set(root.dir = normalizePath("."))
+#knitr::opts_chunk$set(fig.path = "test")
 ```
 
 ## R Markdown
