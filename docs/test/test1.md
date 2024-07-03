@@ -26,3 +26,27 @@ You can also embed plots, for example:
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>x</th>
+<th>x</th>
+<th>x</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="../assets/images/george.jpg" /></td>
+<td><img src="../assets/images/george.jpg" /></td>
+<td><img src="../assets/images/george.jpg" /></td>
+</tr>
+</tbody>
+</table>
+
+`r 1+1`
