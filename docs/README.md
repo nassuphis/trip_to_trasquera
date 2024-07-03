@@ -91,7 +91,7 @@
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 <div class="image-with-legend">
-<img src="./assets/images_introduction/intro4.jpg" alt="Image 1">
+<img src="./assets/images_introduction/intro5.jpg" alt="Image 1">
 </div>
 
 
