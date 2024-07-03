@@ -47,7 +47,7 @@ f4<-function(x,n=4){
   select(starts_with("col_")) %>%
   as.list() %>%
   list_transpose() %>%
-  map_chr(\(x)str_c(" | ",str_flatten(x,collapse=" | ")," | ")) %>%
+  map_chr(\(x)str_c("| ",str_flatten(x,collapse=" | ")," |")) %>%
   str_flatten(collapse="\n")
 
   str_c("|",str_flatten(rep("image",n),"|"),"|") %>%
