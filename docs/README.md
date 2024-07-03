@@ -883,7 +883,7 @@ Our many thanks for the help of our friends.
 
 [Download Sigrid Images](./pages/download_images_mum.md)
 
-[Download Sigrid Images](./pages/download_images_intro.md)
+[Download Introduction Images](./pages/download_images_intro.md)
 
 [Image Descriptions (DOCX file)](https://sigrid-paintings.s3.amazonaws.com/image_descriptions.docx)
 
