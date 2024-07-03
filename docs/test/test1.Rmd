@@ -24,12 +24,14 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
+#  "|x|x|x|"
+#  "|-|-|-|"
 plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-|x|x|x|
+| | | |
 |-|-|-|
 |![](../assets/images/george.jpg)|![](../assets/images/george.jpg)|![](../assets/images/george.jpg)|
 |[g1](../assets/images/george.jpg)|[g2](../assets/images/george.jpg)|[g3](../assets/images/george.jpg)|
@@ -39,4 +41,27 @@ knitr::include_graphics("../assets/invite/invite.pdf")
 ```
 
 `r 1+1`
+
+<div style="width: 48%; display: flex; flex-direction: column; ">
+
+<div style="width: 100%; display: flex; flex-direction: row; ">
+<img src="../assets/collage5/snow2.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/snow3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/oven.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="../assets/collage5/image1.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="../assets/collage5/interior2.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/hut5.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+<div style="width: 100%; display: flex; flex-direction: row;">
+<img src="../assets/collage5/view1.jpg" alt="Image 7" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/food.jpg" alt="Image 8" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/meadow2.jpg" alt="Image 9" style="width: 32%; aspect-ratio: 1;">
+</div>
+
+</div>
+
 

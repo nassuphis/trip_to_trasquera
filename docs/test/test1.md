@@ -33,13 +33,6 @@ prevent printing of the R code that generated the plot.
 <col style="width: 33%" />
 <col style="width: 33%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th>x</th>
-<th>x</th>
-<th>x</th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
 <td><img src="../assets/images/george.jpg" /></td>
@@ -57,3 +50,15 @@ prevent printing of the R code that generated the plot.
 <embed src="../assets/invite/invite.pdf" width="100%" height="500px" type="application/pdf" />
 
 2
+
+<img src="../assets/collage5/snow2.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/snow3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/oven.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
+
+<img src="../assets/collage5/image1.jpg" alt="Image 4" style="width: 32%;aspect-ratio: 1;">
+<img src="../assets/collage5/interior2.jpg" alt="Image 5" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/hut5.jpg" alt="Image 6" style="width: 32%; aspect-ratio: 1;">
+
+<img src="../assets/collage5/view1.jpg" alt="Image 7" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/food.jpg" alt="Image 8" style="width: 32%; aspect-ratio: 1;">
+<img src="../assets/collage5/meadow2.jpg" alt="Image 9" style="width: 32%; aspect-ratio: 1;">
