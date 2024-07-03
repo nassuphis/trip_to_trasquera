@@ -210,7 +210,7 @@ imposing mountain masses, cannot close.
 <hr>
 ## Works 
 
-### Trasquera 2 (Morning View), 2022
+### Bugliaga 1 (Morning View), 2022
 
 <div class="my-div">
 
@@ -246,7 +246,7 @@ This work captures the formidable beauty of the alpine environment.
 [Click here for zoomable image](./pages/zoom2.md)
 
 <hr>
-### Trasquera 7 (Cloudy Day), 2022
+### Bugliaga 2 (Cloudy Day), 2022
 
 <div class="my-div">
 
@@ -288,7 +288,7 @@ This painting captures the powerful presence of nature and its ever-changing moo
 [Click here for zoomable image](./pages/zoom7.md)
 
 <hr>
-### Trasquera 8 (Winter Day), 2023
+### Bugliaga 3 (Winter Day), 2023
 
 <div class="my-div">
 
@@ -329,7 +329,7 @@ The painting captures the stillness and calm of a wintry day.
 [Click here for zoomable image](./pages/zoom8.md)
 
 <hr>
-### Trasquera 3 (The Great Outdoors), 2023
+### Bugliaga 4 (The Great Outdoors), 2023
 
 <div class="my-div">
 
@@ -370,7 +370,7 @@ Bugliaga di Trasquera. Τα ψηλά πεύκα στο προσκήνιο έρχ
 [Click here for zoomable image](./pages/zoom3.md)
 
 <hr>
-### Trasquera 4 (Summer Porch View), 2023
+### Bugliaga 5 (Summer Porch View), 2023
 
 <div class="my-div">
 
@@ -410,7 +410,7 @@ The composition invites viewers to enjoy a moment of calm reflection.
 [Click here for zoomable image](./pages/zoom4.md)
 
 <hr>
-### Trasquera 5 (Bugliaga di Trasquera), 2023
+### Bugliaga 6 (Bugliaga di Trasquera), 2023
 
 <div class="my-div">
 
@@ -451,7 +451,7 @@ This work reflects the peaceful simplicity of rural life.
 [Click here for zoomable image](./pages/zoom5.md)
 
 <hr>
-### Trasquera 1 (Afternoon Walk), 2023
+### Bugliaga 7 (Afternoon Walk), 2023
 
 
 <div class="my-div">
@@ -486,7 +486,7 @@ A picturesque mountain scene in spring. A path winds through a verdant meadow, l
 [Click here for zoomable image](./pages/zoom1.md)
 
 <hr>
-### Trasquera 6 (Misty Day), 2024
+### Bugliaga 8 (Misty Day), 2024
 
 <div class="my-div">
 
@@ -526,7 +526,7 @@ This painting evokes a dreamlike quality, reflecting the transient nature of the
 [Click here for zoomable image](./pages/zoom6.md)
 
 <hr>
-### Trasquera 9 (Winter Walk), 2022
+### Bugliaga 9 (Winter Walk), 2022
 
 <div class="my-div">
 
@@ -565,7 +565,7 @@ The composition invites contemplation, capturing the quiet beauty of a winter's 
 [Click here for zoomable image](./pages/zoom9.md)
 
 <hr>
-### Trasquera 10 (Mistakes Were Made), 2022
+### Bugliaga 10 (Mistakes Were Made), 2022
 
 <div class="my-div">
 
@@ -603,7 +603,7 @@ The text reads: "turns out it was not easy!"
 [Click here for zoomable image](./pages/zoom10.md)
 
 <hr>
-### Trasquera 11 (Woman Standing), 2024
+### Bugliaga 11 (Woman Standing), 2024
 
 <div class="my-div">
 
