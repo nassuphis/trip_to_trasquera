@@ -1,30 +1,5 @@
 ## Image Dowload
 
-
-<img src="../assets/images/hires_trasquera1.jpg"  height="300px" />
-
-[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/images/hires_trasquera1.jpg)
-
-<hr>
-
-<img src="../assets/images/hires_trasquera2.jpg" width="300px" />
-
-[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/images/hires_trasquera2.jpg)
-
-<hr>
-
-<img src="../assets/images/hires_trasquera3.jpg"  width="300px" />
-
-[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/images/hires_trasquera3.jpg)
-
-<hr>
-
-<img src="../assets/images/hires_trasquera4.jpg"  width="300px" />
-
-[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/images/hires_trasquera4.jpg)
-
-<hr>
-
 ## Collage 5
 
 <img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage5/bull.jpg" width="300px" />
@@ -299,3 +274,157 @@
 
 <hr>
 
+## Collage 4
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/IMG_0294.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/IMG_0294.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img1.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img1.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img10.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img10.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img11.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img11.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img12.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img12.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img13.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img13.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img14.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img14.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img15.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img15.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img16.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img16.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img17.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img17.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img2.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img2.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img27.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img27.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img28.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img28.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img29.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img29.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img3.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img3.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img30.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img30.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img4.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img4.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img5.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img5.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img6.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img6.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img7.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img7.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img8.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img8.jpg)
+
+<hr>
+
+
+<img src="https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img9.jpg" width="300px" />
+
+[Download Image](https://sigrid-paintings.s3.amazonaws.com/assets/collage4/img9.jpg)
+
+<hr>
