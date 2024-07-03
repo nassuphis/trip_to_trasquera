@@ -877,7 +877,9 @@ Our many thanks for the help of our friends.
 
 [Download All Painting Images (TIFF, 1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
 
-[Download Other Images ](./pages/image_download.md)
+[Download Other Images 1](./pages/image_download1.md)
+
+[Download Other Images 2](./pages/image_download2.md)
 
 [Image Descriptions (DOCX file)](https://sigrid-paintings.s3.amazonaws.com/image_descriptions.docx)
 
