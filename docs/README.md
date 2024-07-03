@@ -883,6 +883,8 @@ Our many thanks for the help of our friends.
 
 [Download Sigrid Images](./pages/download_images_mum.md)
 
+[Download Sigrid Images](./pages/download_images_intro.md)
+
 [Image Descriptions (DOCX file)](https://sigrid-paintings.s3.amazonaws.com/image_descriptions.docx)
 
 [Photos from the Trip](https://docs.google.com/document/d/1uofZLVL62gTsbEctcYhTsR2FUEm3DsY1-0nGgTSd1bs/edit)
