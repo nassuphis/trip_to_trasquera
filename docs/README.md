@@ -878,19 +878,21 @@ Our many thanks for the help of our friends.
 
 # Materials
 
-[Go to Trip to Bugliaga](#trip-to-bugliaga)
+[Go to Top](#trip-to-bugliaga)
 
-[Download Invite](./pages/invite_download.md)
+[Invite](./pages/ff_invite.md)
 
-[Download All Painting Images (TIFF, 1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
+[Collage5](./pages/ff_collage5.md)
 
-[Download Other Images 1](./pages/image_download1.md)
+[Collage4](./pages/ff_collage4.md)
 
-[Download Other Images 2](./pages/image_download2.md)
+[Sigrid](./pages/ff_images_mum.md)
 
-[Download Sigrid Images](./pages/download_images_mum.md)
+[ThankYou](./pages/ff_images_thankyou.md)
 
-[Download Introduction Images](./pages/download_images_intro.md)
+[Trasquera](./pages/ff_images_trasquera.md)
+
+[Introduction](./pages/ff_images_introduction.md)
 
 [Image Descriptions (DOCX file)](https://sigrid-paintings.s3.amazonaws.com/image_descriptions.docx)
 
@@ -902,5 +904,6 @@ Our many thanks for the help of our friends.
 
 [Text from friends and family](https://docs.google.com/document/d/1w6ly-SP4_yntUetdMLrPWJKqFw5wBb6exzNNrzvs8ug/edit)
 
+[Download All Painting Images (TIFF, 1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
 
 

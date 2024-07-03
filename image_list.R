@@ -61,7 +61,16 @@ f4<-function(x,n=4){
   str_flatten("\n")
 }
 
-x<-f4("images_introduction",5)
-cat(x)
+f5<-function(x,n=4){
+  cat(glue("## {x}\n\n\n"),file=glue("docs/pages/ff_{x}.md"),append = FALSE)
+  cat(f4(x,n),file=glue("docs/pages/ff_{x}.md"),append = TRUE)
+  cat("\n\n",file=glue("docs/pages/ff_{x}.md"),append = TRUE)
+}
 
-
+f5("collage5",10)
+f5("collage4",10)
+f5("images",4)
+f5("images_introduction",2)
+f5("images_thankyou",2)
+f5("images_trasquera",5)
+f5("invite",2)
