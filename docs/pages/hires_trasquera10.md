@@ -4,7 +4,7 @@ oil on canvas, 100 x 70 cm
 
 
 Failure and frustration are part of the process. Some failures are memorable.
-The text reads: "turns out it was not that easy!"
+The text reads: "turns out it was not easy!"
 
 
 Η αποτυχία και η απογοήτευση είναι μέρος της διαδικασίας. Κάποιες αποτυχίες είναι αξέχαστες.
