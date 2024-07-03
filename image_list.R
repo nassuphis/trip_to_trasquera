@@ -56,7 +56,7 @@ f4<-function(x,n=4){
   str_flatten("\n")
 }
 
-x<-f4("images_introduction",4)
+x<-f4("collage4",10)
 cat(x)
 
 
