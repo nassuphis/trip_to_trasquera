@@ -33,7 +33,9 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 |-|-|-|
 |![](../assets/images/george.jpg)|![](../assets/images/george.jpg)|![](../assets/images/george.jpg)|
 
+```{r, echo=FALSE, out.width='100%'}
+knitr::include_graphics("../assets/catalogue/catalogue.pdf")
+```
 
-
-```r 1+1```
+`r 1+1`
 

@@ -49,4 +49,6 @@ prevent printing of the R code that generated the plot.
 </tbody>
 </table>
 
-`r 1+1`
+<embed src="../assets/invite/invite.pdf" width="100%" height="500px" type="application/pdf" />
+
+2
