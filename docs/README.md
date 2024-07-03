@@ -148,7 +148,7 @@ she ascended multiple times. These adventures were a testament to her adventurou
 </div>
 <div class="legend"></div>
 <div class="legend" style="max-width: 90%;">
-εννημένη στις 8 Νοεμβρίου 1940, στην γραφική περιοχή της Βαυαρίας, στη Γερμανία, η Σίγκριντ Νασούφη ανέπτυξε από νωρίς στη ζωή της εκτίμηση για την ομορφιά και τον σχεδιασμό. Καλλιέργησε αυτό το πάθος ακαδημαϊκά στο Πανεπιστήμιο του Konstanz , όπου σπούδασε γραφιστική και ένδυση. Το ταξίδι της ζωής της πήρε μια απρόσμενη τροπή το 1967, όταν μετακόμισε στην Ελλάδα με τον συντροφò της, ο οποίος αργότερα έγινε ο αγαπημένος της σύζυγος. Στην Ελλάδα, η Σίγκριντ αρχικά εργάστηκε ως γραφίστρια, καταθέτοντας το δημιουργικό της ταλέντο σε διάφορα έργα. Ωστόσο, καθώς η οικογένειά της μεγάλωσε, με την άφιξη τριών παιδιών, επέλεξε να αφιερωθεί πλήρως στην ανατροφή τους. Εξισορροπώντας τους ρόλους της αφοσιωμένης νοικοκυράς και της αγαπημένης μητέρας, η Σιγκριντ δεν εγκατέλειψε ποτέ το καλλιτεχνικό της πνεύμα. Ασχολήθηκε με την κεραμική και τη ζωγραφική, βρίσκοντας χαρά και ικανοποίηση στη δημιουργία τέχνης που αντικατόπτριζε τις εμπειρίες και  το περιβάλλον της. Η αγάπη της Σιγκριντ για τον φυσικό κόσμο είναι  εξίσου βαθιά. Εξερεύνησε τα μαγευτικά τοπία της Ελλάδας, περπατώντας από τα βάθη του φαραγγιού του Βίκου μέχρι τις κορυφές του Όλυμπου, τις οποίες ανέβηκε πολλές φορές. Αυτές οι περιπέτειες είναι απόδειξη του περιπετειώδους πνεύματός της και της βαθιάς της σύνδεσης με τη Φύση.
+Γεννημένη στις 8 Νοεμβρίου 1940, στην γραφική περιοχή της Βαυαρίας, στη Γερμανία, η Σίγκριντ Νασούφη ανέπτυξε από νωρίς στη ζωή της εκτίμηση για την ομορφιά και τον σχεδιασμό. Καλλιέργησε αυτό το πάθος ακαδημαϊκά στο Πανεπιστήμιο του Konstanz , όπου σπούδασε γραφιστική και ένδυση. Το ταξίδι της ζωής της πήρε μια απρόσμενη τροπή το 1967, όταν μετακόμισε στην Ελλάδα με τον συντροφò της, ο οποίος αργότερα έγινε ο αγαπημένος της σύζυγος. Στην Ελλάδα, η Σίγκριντ αρχικά εργάστηκε ως γραφίστρια, καταθέτοντας το δημιουργικό της ταλέντο σε διάφορα έργα. Ωστόσο, καθώς η οικογένειά της μεγάλωσε, με την άφιξη τριών παιδιών, επέλεξε να αφιερωθεί πλήρως στην ανατροφή τους. Εξισορροπώντας τους ρόλους της αφοσιωμένης νοικοκυράς και της αγαπημένης μητέρας, η Σιγκριντ δεν εγκατέλειψε ποτέ το καλλιτεχνικό της πνεύμα. Ασχολήθηκε με την κεραμική και τη ζωγραφική, βρίσκοντας χαρά και ικανοποίηση στη δημιουργία τέχνης που αντικατόπτριζε τις εμπειρίες και  το περιβάλλον της. Η αγάπη της Σιγκριντ για τον φυσικό κόσμο είναι  εξίσου βαθιά. Εξερεύνησε τα μαγευτικά τοπία της Ελλάδας, περπατώντας από τα βάθη του φαραγγιού του Βίκου μέχρι τις κορυφές του Όλυμπου, τις οποίες ανέβηκε πολλές φορές. Αυτές οι περιπέτειες είναι απόδειξη του περιπετειώδους πνεύματός της και της βαθιάς της σύνδεσης με τη Φύση.
 </div>
 </div>
 
@@ -186,27 +186,18 @@ she ascended multiple times. These adventures were a testament to her adventurou
 <div class="legend-container" style="width: 50%;">
 <div class="legend" style="max-width: 50%;">Absence</div>
 <div class="legend" style="max-width: 50%;">
-The act of painting is moving on the surface and is driving with grace, force and
-passion to the depth of emotions. It hides and reveals simultaneously. It transforms
-into an ideal means of expression, a brush of self-help and auto-salvation once life
-has revealed its ugly face. A very beneficial act of the suffering soul is considered
-to be, when the words lose their meaning. The movement of the brush, an
-extension of the hand, the mind and the heart, could unwind the weight the artist
-carries and it could create its own world that the artist would like to share with the
-Others.
+The act of painting moves on the surface while driving with grace, force and
+passion to the depth of emotions. It hides and reveals simultaneously. It transforms into an ideal means of expression, a brush of self-help and auto-salvation, once life has revealed its ugly face. It is considered to be a very beneficial act for the suffering soul, when the words lose their meaning. The movement of the brush, as an extension of the hand, the mind and the heart, can unwind the weight the artist carries and it can create its own world that the artist wishes to share with Others.
 
-The works of Sigrid Nassuphis, oil on canvas, are creations that started after
-the death of her husband. In mourning, relatives and friends repeat the sentence “I
-have no words”. Sigrid left words aside – words pierce like nails – and created a series 
-of landscapes, with photography as a helper and memory as a guide. She painted the absence. 
-The beauty is existing, the harmony is calming, the absence of people is meaning. 
-Shadows and light, calmness and threat. Nature has a perspective when people are gone. 
+The works of Sigrid Nassuphis, oils on canvas, are creations that started after
+the death of her husband. In mourning, relatives and friends repeat the sentence “I have no words”. Sigrid left words aside – words pierce like nails – and created a series of landscapes, with photography as a helper and memory as a guide. She painted absence. Beauty exists, harmony calms, absence of humans signifies.
+Shadows and light, tranquility and threat. Nature has perspective when people are gone. 
 It is consoling in its greatness and beauty. As if she says: “I search for you in places that look 
 immortal. Here, look at the mountains; once you left, I went there with our sons”.
 
-The high mountains she loved, that Sigrid walked and is walking, in her eighth
-decade of life, are the link with her life. With the colours and paintbrushes as
-guides, she carves a path. What the beautiful wooden fences, in front of the
+The high mountains Sigrid loved, walked and is still walking, in her eighth
+decade of life, are her link to life itself. With colors and paintbrushes as
+guides she carves a path which the beautiful wooden fences, in front of the
 imposing mountain masses, cannot close.
 
 </div>
