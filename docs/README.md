@@ -163,7 +163,7 @@ This catalogue presents these paintings.
 
 </div>
 <hr>
-
+  
 ## Marlena Politopoulou
 
 <div class="my-div">
@@ -879,6 +879,8 @@ Our many thanks for the help of our friends.
 # Materials
 
 [Go to Trip to Bugliaga](#trip-to-bugliaga)
+
+[Download Invite](./pages/invite_download.md)
 
 [Download All Painting Images (TIFF, 1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
 
