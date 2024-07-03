@@ -16,6 +16,11 @@ R"--(
 
 )--"
 
+fn<-function(x){
+  list.files(glue("docs/assets/{x}"),"*.jpg") %>%
+  str_extract("^[a-zA-Z0-9_]+")
+}
+
 f0<-function(x){
   y <- list.files(glue("docs/assets/{x}"),"*.jpg")
   glue("../assets/{x}/{y}",x=x,y=y)
@@ -28,7 +33,7 @@ f1<-function(x){
 }
 
 f2<-function(x){
-  glue("[Download]({f1(x)})")
+  glue("[{fn(x)}]({f1(x)})")
 }
 
 f3<-function(x){
@@ -56,7 +61,7 @@ f4<-function(x,n=4){
   str_flatten("\n")
 }
 
-x<-f4("invite",2)
+x<-f4("images_introduction",5)
 cat(x)
 
 
