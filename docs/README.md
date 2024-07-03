@@ -81,6 +81,8 @@
 
 **Sigrid Nassuphis** (b. 1940)
 
+[Go to Materials](#materials)
+
 <hr style="height: 5px; background-color: #000; border: none;">
 
 ## Introduction
@@ -873,7 +875,9 @@ Our many thanks for the help of our friends.
 
 <hr style="height: 5px; background-color: #000; border: none;">
 
-# Materials (not in catalogue)
+# Materials
+
+[Go to Trip to Bugliaga](#trip-to-bugliaga)
 
 [Download All Painting Images (TIFF, 1GB)](https://sigrid-paintings.s3.amazonaws.com/trasquera.zip)
 
