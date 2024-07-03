@@ -1,5 +1,3 @@
-## Image Dowload
-
 ## Images Intro
 
 |image|image|image|image|

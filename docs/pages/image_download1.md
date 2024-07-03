@@ -1,5 +1,3 @@
-## Image Dowload
-
 ## Collage 5
 
 |image|image|image|image|image|image|image|image|image|image|

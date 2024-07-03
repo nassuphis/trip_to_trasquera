@@ -1,5 +1,3 @@
-## Image Dowload
-
 ## Collage 4
 
 |image|image|image|image|image|image|image|image|image|image|
