@@ -471,9 +471,6 @@ This work reflects the peaceful simplicity of rural life.
 <div class="legend-container" style="width: 50%;" >
 <div class="legend" style="max-width: 50%;">
 A picturesque mountain scene in spring. A path winds through a verdant meadow, leading towards a forest and snow-capped mountains in the distance. The blue sky and vibrant vegetation create a beautiful contrast with the snowy peaks.
-A winding path through a verdant valley leads towards a snow-capped mountain in this vibrant painting. 
-The green grass and trees contrast sharply with the white snow, creating a dynamic scene. 
-The path symbolizes a journey through the natural landscape, inviting viewers to explore its beauty.
 </div>
 <div class="legend" style="max-width: 50%;">
 Ένα γραφικό ορεινό τοπίο την άνοιξη. Ένα μονοπάτι διασχίζει ένα καταπράσινο λιβάδι, οδηγώντας προς ένα δάσος και χιονισμένα βουνά στο βάθος. Ο γαλάζιος ουρανός και η ζωντανή βλάστηση δημιουργούν μια όμορφη αντίθεση με τις χιονισμένες κορυφές.
