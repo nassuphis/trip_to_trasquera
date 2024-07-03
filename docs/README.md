@@ -826,7 +826,14 @@ My mother has always had a deep love for nature, finding peace and inspiration d
 Ever since I can remember, my mother loved the outdoors, trees, mountains, rivers. She marvels at nature. Going for week long walks around islands or climbing mountains with her friends sleeping in tents or in the front yard of small countryside churches. Always bring back plants, shells, stones and impressions she incorporates in her creative work. Whether in her wild plant garden (from her trips), a macrame curtain with pottery beads and leafs (from pottery experimentation) or her numerous, drawing and above all painting. In that sense the current circle of works is very fitting.
 </div>
 <div class="legend"  style="max-width: 75%;">
-Από τότε που θυμάμαι τον εαυτό μου, η μητέρα μου αγαπούσε την ύπαιθρο, τα δέντρα, τα βουνά, τα ποτάμια. Θαυμάζει τη φύση. Πηγαίνει για πολυήμερες πεζοπορίες γύρω από νησιά ή σκαρφαλώνει βουνά με τους φίλους της κοιμώμενοι σε σκηνές ή στην αυλή μικρών εκκλησιών της εξοχής. Πάντα έφερνε πίσω φυτά, κοχύλια, πέτρες και εντυπώσεις που ενσωματώνει στη δημιουργική της δουλειά. Είτε στον κήπο της με άγρια φυτά (από τα ταξίδια της), είτε σε μια κουρτίνα μακραμέ με κεραμικές χάντρες και φύλλα (από τούς  πειραματισμούς με την κεραμική) ή στα πολυάριθμα της σχέδια και πάνω απ’ όλα πίνακες ζωγραφικής. Με αυτή την έννοια, ο τρέχων κύκλος έργων είναι πολύ ταιριαστός
+Από τότε που θυμάμαι τον εαυτό μου, η μητέρα μου αγαπούσε την ύπαιθρο, τα
+δέντρα, τα βουνά, τα ποτάμια. Θαυμάζει τη φύση. Πηγαίνει για πολυήμερες
+πεζοπορίες γύρω από νησιά ή σκαρφαλώνει βουνά με τους φίλους της διανυκτερεύοντας σε σκηνές ή στην αυλή μικρών εκκλησιών της εξοχής. Πάντα
+έφερνε πίσω φυτά, κοχύλια, πέτρες και εντυπώσεις που ενσωματώνει στη
+δημιουργική της δουλειά : Είτε στον κήπο της, με άγρια φυτά (από τα ταξίδια της),
+είτε σε μια κουρτίνα μακραμέ με κεραμικές χάντρες και φύλλα (από τούς
+πειραματισμούς με την κεραμική), είτε στα πολυάριθμα σχέδιά της και πάνω απ’ όλα στους πίνακες της ζωγραφικής της. Με αυτή την έννοια, ο τρέχων κύκλος
+έργων είναι πολύ χαρακτηριστικός.
 </div>
 </div>
 </div>
