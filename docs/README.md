@@ -126,7 +126,7 @@ This catalogue presents these paintings.
 </div>
 <hr>
 
-## Biograpy 
+## Biography 
 
 <div class="my-div" style="width: 100%">
 
@@ -614,7 +614,7 @@ The text reads: "turns out it was not that easy!"
 <div style="width: 2px; background-color: #aaa; margin: 0 20px;"></div>
 
 <div class="image-with-legend">
-<img src="./assets/images_thankyou/last_painting.jpg" alt="Image 1">
+<img src="./assets/images/trasquera11.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Trasquera 11 (Woman Standing), 2024</div>
 <div class="legend" style="max-width: 100%;">oil on canvas, 120 x 87 cm</div>
