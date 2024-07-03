@@ -6,6 +6,8 @@ date: "2024-07-03"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+# Set the directory for figure output
+knitr::opts_chunk$set(fig.path = "docs/test/")
 ```
 
 ## R Markdown
