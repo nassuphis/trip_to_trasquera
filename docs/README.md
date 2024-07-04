@@ -104,7 +104,7 @@
  
 <div class="legend-container" style="width: 40%;">
 <div class="legend" style="max-width: 90%;">
-Born on November 8, 1940, in the scenic region of Bavaria, Germany, Sigrid Nassuphis developed an early appreciation for beauty and design. She pursued this passion academically at the University of Konstanz, where she studied graphic design and clothing. Her journey took a transformative turn in 1967 when she moved to Greece with her partner, who later became her beloved husband. In Greece, Sigrid initially worked as a graphic designer, bringing her creative flair to various projects. However, as her family grew with the arrival of three children, she chose to devote herself fully to their upbringing. Balancing her roles as a dedicated homemaker and a loving mother, Segrid never let go of her artistic spirit. She immersed herself in pottery and painting, finding joy and fulfillment in creating art that reflected her experiences and surroundings. Sigrid's love for the natural world was equally profound. She explored the breathtaking landscapes of Greece, hiking from the depths of the Vikos Gorge in the north to the heights of Mount Olympus, which
+Born on November 8, 1940, in the scenic region of Bavaria, Germany, Sigrid Nassuphis developed an early appreciation for beauty and design. She pursued this passion academically at the University of Konstanz, where she studied graphic design and clothing. Her journey took a transformative turn in 1967 when she moved to Greece with her partner, who later became her beloved husband. In Greece, Sigrid initially worked as a graphic designer, bringing her creative flair to various projects. However, as her family grew with the arrival of three children, she chose to devote herself fully to their upbringing. Balancing her roles as a dedicated homemaker and a loving mother, Segrid never let go of her artistic spirit. She immersed herself in pottery and painting, finding joy and fulfillment in creating art that reflected her experiences and surroundings. Sigrid's love for the natural world was equally profound. She explored the breathtaking landscapes of Greece, hiking from the depths of the Vikos Gorge to the heights of Mount Olympus, which
 she ascended multiple times. These adventures were a testament to her adventurous spirit and deep connection to nature.
 </div>
 <div class="legend"></div>
@@ -147,8 +147,8 @@ Bugliaga di Trasquera is perfect for someone seeking a kind of reset, and I was
 convinced it would do Sigrid a lot of good. We had a wonderful time there.
 After returning to Athens, we decided that a painting inspired by our time in 
 Bugliaga would be the most fitting "thank you" gift to our gracious hosts. 
-Initially, this plan involved just one painting, but Sigrid's enthusiasm for 
-the place transformed it into a series of twelve, created over the next two years.
+Initially, this plan involved just one painting, but Sigrid's enthusiasm transformed 
+it into a series of twelve, created over the next two years.
 This catalogue presents these paintings.
 </div>
 
