@@ -51,6 +51,8 @@ prevent printing of the R code that generated the plot.
 
 2
 
+<!-- <div style="width: 48%; display: flex; flex-direction: column; justify-content: center; align-items: stretch;height: 100%; width: 100%;  "> -->
+
 <img src="../assets/collage5/snow2.jpg" alt="Image 1"  style="width: 32%; aspect-ratio: 1;">
 <img src="../assets/collage5/snow3.jpg" alt="Image 2" style="width: 32%; aspect-ratio: 1;">
 <img src="../assets/collage5/oven.jpg" alt="Image 3" style="width: 32%; aspect-ratio: 1;">
@@ -62,3 +64,21 @@ prevent printing of the R code that generated the plot.
 <img src="../assets/collage5/view1.jpg" alt="Image 7" style="width: 32%; aspect-ratio: 1;">
 <img src="../assets/collage5/food.jpg" alt="Image 8" style="width: 32%; aspect-ratio: 1;">
 <img src="../assets/collage5/meadow2.jpg" alt="Image 9" style="width: 32%; aspect-ratio: 1;">
+
+<table>
+<tr>
+<img src="../assets/collage5/snow2.jpg" alt="Image 1"  style="width: 33%; aspect-ratio: 1;">
+<img src="../assets/collage5/snow3.jpg" alt="Image 2" style="width: 33%; aspect-ratio: 1;">
+<img src="../assets/collage5/oven.jpg" alt="Image 3" style="width: 33%; aspect-ratio: 1;">
+</tr>
+<tr>
+<img src="../assets/collage5/image1.jpg" alt="Image 4" style="width: 33%;aspect-ratio: 1;">
+<img src="../assets/collage5/interior2.jpg" alt="Image 5" style="width: 33%; aspect-ratio: 1;">
+<img src="../assets/collage5/hut5.jpg" alt="Image 6" style="width: 33%; aspect-ratio: 1;">
+</tr>
+<tr>
+<img src="../assets/collage5/view1.jpg" alt="Image 7" style="width: 33%; aspect-ratio: 1;">
+<img src="../assets/collage5/food.jpg" alt="Image 8" style="width: 33%; aspect-ratio: 1;">
+<img src="../assets/collage5/meadow2.jpg" alt="Image 9" style="width: 33%; aspect-ratio: 1;">
+</tr>
+</table>
