@@ -223,7 +223,7 @@ imposing mountain masses, cannot close.
 <img src="./assets/images/trasquera2.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 1 (Morning View), 2022</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm</div>
 </div>
 </div>
 
@@ -259,7 +259,7 @@ This work captures the formidable beauty of the alpine environment.
 <img src="./assets/images/trasquera7.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 2 (Cloudy Day), 2022</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm </div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm </div>
 </div>
 </div>
 
@@ -301,7 +301,7 @@ This painting captures the powerful presence of nature and its ever-changing moo
 <img src="./assets/images/trasquera8.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;"> Bugliaga 3 (Winter Day), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm </div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 87 cm </div>
 </div>
 </div>
 
@@ -342,7 +342,7 @@ The painting captures the stillness and calm of a wintry day.
 <img src="./assets/images/trasquera3.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 4 (The Great Outdoors), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 300 x 185 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 185 x 300 cm</div>
 </div>
 </div>
 
@@ -383,7 +383,7 @@ Bugliaga di Trasquera. Τα ψηλά πεύκα στο προσκήνιο έρχ
 <img src="./assets/images/trasquera4.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 5 (Summer Porch View), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 87 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
 </div>
 </div>
 
@@ -499,7 +499,7 @@ A picturesque mountain scene in spring. A path winds through a verdant meadow, l
 <img src="./assets/images/trasquera6.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 8 (Misty Day), 2024</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 87 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
 </div>
 </div>
 
@@ -539,7 +539,7 @@ This painting evokes a dreamlike quality, reflecting the transient nature of the
 <img src="./assets/images/trasquera9.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 9 (Winter Walk), 2022</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm </div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 90 cm </div>
 </div>
 </div>
 
@@ -578,7 +578,7 @@ The composition invites contemplation, capturing the quiet beauty of a winter's 
 <img src="./assets/images/trasquera10.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 10 (Mistakes Were Made), 2022</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 70 x 100 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 100 x 70 cm</div>
 </div>
 </div>
 
@@ -616,7 +616,7 @@ The text reads: "turns out it was not easy!"
 <img src="./assets/images/trasquera11.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 11 (Woman Standing), 2024</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 120 x 87 cm</div>
 </div>
 </div>
 
