@@ -383,7 +383,7 @@ Bugliaga di Trasquera. Τα ψηλά πεύκα στο προσκήνιο έρχ
 <img src="./assets/images/trasquera4.jpg" alt="Image 1">
 <div class="legend-container">
 <div class="legend" style="max-width: 100%;">Bugliaga 5 (Summer Porch View), 2023</div>
-<div class="legend" style="max-width: 100%;">oil on canvas, 87 x 120 cm</div>
+<div class="legend" style="max-width: 100%;">oil on canvas, 90 x 120 cm</div>
 </div>
 </div>
 
